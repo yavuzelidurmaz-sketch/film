@@ -2,7 +2,7 @@ name: Anizium Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,14 +29,26 @@ jobs:
           seleniumbase install chromedriver
 
       - name: Run Scraper
-        # xvfb-run komutu, sanal bir ekran oluşturup tarayıcıyı orada çalıştırır
+        # Ekran görüntüsü alabilmesi için xvfb kullanıyoruz
         run: xvfb-run python main.py
+
+      # --- YENİ EKLENEN KISIM: HATA FOTOĞRAFINI YÜKLE ---
+      - name: Upload Debug Screenshot
+        if: always() # Hata olsa bile çalışır
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: ./*.png
+          retention-days: 1
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
+          # Dosya yoksa boş oluştur
           touch anizium.m3u anizium.json
+          
           git add anizium.m3u anizium.json
           git diff-index --quiet HEAD || git commit -m "Playlist Guncellendi"
           git push
