@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 import subprocess
+import time
 
 # Ayarlar
 BASE_URL = "https://www.kanald.com.tr"
@@ -67,7 +68,7 @@ def create_outputs(series_data):
     with open(json_filename, "w", encoding="utf-8") as f:
         json.dump(series_data, f, indent=4, ensure_ascii=False)
     files_to_push.append(json_filename)
-    print(f"✅ {json_filename} oluşturuldu.")
+    print(f"✅ {json_filename} oluşturuldu. Toplam Dizi: {len(series_data)}")
 
     # 2. M3U OLUŞTURMA
     m3u_filename = "kanald.m3u"
@@ -75,69 +76,112 @@ def create_outputs(series_data):
         f.write("#EXTM3U\n")
         
         for dizi_id, data in series_data.items():
-            dizi_adi = dizi_id.replace("-", " ").title() # slug'ı başlığa çevir
+            dizi_adi = dizi_id.replace("-", " ").title()
             resim = data.get("resim", "")
             
             for bolum in data['bolumler']:
                 baslik = bolum['ad']
                 link = bolum['link']
-                
-                # M3U Formatı: #EXTINF:-1 group-title="Dizi Adı" tvg-logo="resim", Bölüm Adı
                 f.write(f'#EXTINF:-1 group-title="{dizi_adi}" tvg-logo="{resim}", {baslik}\n')
                 f.write(f'{link}\n')
                 
     files_to_push.append(m3u_filename)
     print(f"✅ {m3u_filename} oluşturuldu.")
 
-    # GitHub'a gönder
     commit_and_push(files_to_push)
 
 def run_scraper():
-    print("🚀 Kanal D Scraper Başlatıldı (JSON & M3U Modu)...")
+    print("🚀 Kanal D Scraper Başlatıldı (Gelişmiş Mod)...")
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True})
     series_data = {}
 
-    for page in range(1, 6): # Örnek olarak ilk 5 sayfa (Hız için düşürdüm, artırabilirsin)
+    # Sayfa sayısını artırabilirsin (1, 11) gibi
+    for page in range(1, 6): 
         print(f"\n📄 Sayfa {page} taranıyor...")
         try:
             resp = scraper.get(f"{ARCHIVE_URL}{page}", timeout=15)
             soup = BeautifulSoup(resp.text, 'html.parser')
-            cards = soup.select('a.poster-card')
-            if not cards: break
+            cards = soup.select('a.poster-card, .card-item, .item') # Ana liste seçicileri
+            
+            if not cards: 
+                print("⚠️ Bu sayfada dizi bulunamadı.")
+                break
 
             for card in cards:
-                title = card.get('title') or card.find('img').get('alt', 'Dizi')
+                title_tag = card.get('title') or card.find('img').get('alt') if card.find('img') else None
+                if not title_tag: continue
+                
+                title = str(title_tag)
                 href = card.get('href')
                 dizi_id = slugify(title)
 
-                print(f"  📺 {title} işleniyor...")
                 full_url = BASE_URL + href if href.startswith('/') else href
+                print(f"  📺 {title} kontrol ediliyor...")
 
-                b_resp = scraper.get(full_url.rstrip('/') + "/bolumler")
+                # Bölüm sayfasına git
+                b_url_main = full_url.rstrip('/') + "/bolumler"
+                b_resp = scraper.get(b_url_main)
                 b_soup = BeautifulSoup(b_resp.text, 'html.parser')
-                b_cards = b_soup.select('.story-card, .content-card, .video-card')
+
+                # PLAN A: Standart Kartlar
+                b_cards = b_soup.select('.story-card, .content-card, .video-card, .media-block, .card-item')
+                
+                # PLAN B: Eğer standart kart yoksa, tüm linkleri tara
+                if not b_cards:
+                    all_links = b_soup.find_all('a', href=True)
+                    # İçinde 'bolum' geçen ve 'fragman' olmayan linkleri al
+                    b_cards = [
+                        a for a in all_links 
+                        if '/bolum/' in a['href'] 
+                        and ('izle' in a['href'] or 'bolum' in a.get_text().lower())
+                        and 'fragman' not in a['href']
+                    ]
+                    # Tekrar edenleri temizle (set kullanarak)
+                    seen = set()
+                    unique_cards = []
+                    for c in b_cards:
+                        h = c['href']
+                        if h not in seen:
+                            seen.add(h)
+                            unique_cards.append(c)
+                    b_cards = unique_cards
+
+                print(f"    🔎 {len(b_cards)} adet bölüm bulundu.")
 
                 eps = []
-                for bc in b_cards[:10]: # Son 10 bölüm
-                    link_tag = bc.find('a', href=True)
-                    name_tag = bc.select_one('.title, h3, h2')
+                for bc in b_cards[:10]: # Her diziden son 10 bölüm
+                    link_tag = bc if bc.name == 'a' else bc.find('a', href=True)
                     
-                    if link_tag and name_tag:
-                        b_url = BASE_URL + link_tag['href'] if link_tag['href'].startswith('/') else link_tag['href']
-                        m3u8_link = get_real_m3u8(scraper, b_url)
+                    # İsim bulmaya çalış
+                    name_tag = bc.select_one('.title, h3, h2, .description') 
+                    name_text = name_tag.get_text(strip=True) if name_tag else ""
+                    
+                    # Eğer isim yoksa linkin title'ına bak veya link metnini al
+                    if not name_text and link_tag:
+                        name_text = link_tag.get('title') or link_tag.get_text(strip=True)
+
+                    if link_tag:
+                        target_url = BASE_URL + link_tag['href'] if link_tag['href'].startswith('/') else link_tag['href']
+                        m3u8_link = get_real_m3u8(scraper, target_url)
                         
-                        eps.append({"ad": name_tag.get_text(strip=True), "link": m3u8_link})
+                        # Bölüm adını temizle
+                        clean_name = f"{title} - {name_text}" if title not in name_text else name_text
+                        
+                        eps.append({"ad": clean_name, "link": m3u8_link})
 
                 if eps:
                     img = card.find('img')
-                    poster = img.get('data-src') or img.get('src', '')
-                    series_data[dizi_id] = {"resim": poster, "bolumler": eps[::-1]} # Eskiden yeniye sırala
+                    poster = img.get('data-src') or img.get('src', '') if img else ""
+                    series_data[dizi_id] = {"resim": poster, "bolumler": eps[::-1]}
 
         except Exception as e:
             print(f"❌ Hata: {e}")
             continue
 
-    create_outputs(series_data)
+    if series_data:
+        create_outputs(series_data)
+    else:
+        print("\n⚠️ Hiçbir veri çekilemedi. Seçicileri veya site yapısını kontrol et.")
 
 if __name__ == "__main__":
     run_scraper()
