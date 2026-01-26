@@ -83,7 +83,7 @@ def main():
     movies_data = []
     m3u_content = "#EXTM3U\n"
     
-    for page in range(1, MAX_PAGES + 1):
+    for page in range(1, MAX_PAGES + 700):
         url = f"{ARCHIVE_URL}?page={page}"
         print(f"--- Sayfa {page} taranıyor: {url} ---")
         
