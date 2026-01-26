@@ -23,32 +23,28 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          # Ekran kartı emülatörü (xvfb) ve DrissionPage kuruyoruz
           sudo apt-get update
           sudo apt-get install -y xvfb
-          pip install seleniumbase
-          seleniumbase install chromedriver
+          pip install DrissionPage
 
       - name: Run Scraper
-        # Ekran görüntüsü alabilmesi için xvfb kullanıyoruz
+        # Sanal ekranda çalıştır
         run: xvfb-run python main.py
 
-      # --- YENİ EKLENEN KISIM: HATA FOTOĞRAFINI YÜKLE ---
       - name: Upload Debug Screenshot
-        if: always() # Hata olsa bile çalışır
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: debug-screenshots
-          path: ./*.png
+          path: ./*.jpg
           retention-days: 1
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          
-          # Dosya yoksa boş oluştur
           touch anizium.m3u anizium.json
-          
           git add anizium.m3u anizium.json
           git diff-index --quiet HEAD || git commit -m "Playlist Guncellendi"
           git push
