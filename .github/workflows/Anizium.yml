@@ -2,8 +2,8 @@ name: Anizium Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir çalışır
-  workflow_dispatch: # Manuel tetikleme butonu
+    - cron: '0 */6 * * *' # 6 saatte bir
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,25 +21,22 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
-          python -m pip install --upgrade pip
-          # AŞAĞIDAKİ SATIR ÇOK ÖNEMLİ, EKSİK OLDUĞU İÇİN HATA ALIYORSUN:
-          pip install requests curl_cffi
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+          pip install seleniumbase
+          seleniumbase install chromedriver
 
       - name: Run Scraper
-        run: python main.py
+        # xvfb-run komutu, sanal bir ekran oluşturup tarayıcıyı orada çalıştırır
+        run: xvfb-run python main.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          
-          # Dosyaları garantiye al
           touch anizium.m3u anizium.json
-          
           git add anizium.m3u anizium.json
-          
-          # Değişiklik varsa commit at, yoksa devam et
           git diff-index --quiet HEAD || git commit -m "Playlist Guncellendi"
           git push
