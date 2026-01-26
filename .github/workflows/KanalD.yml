@@ -1,0 +1,41 @@
+name: KanalD Scraper JSON/M3U
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 9 * * *' # Her gün TSİ 12:00 civarı
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repo'yu checkout et
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Paketleri yükle
+        run: |
+          pip install requests beautifulsoup4 cloudscraper
+
+      - name: Scripti çalıştır
+        run: python kanald.py
+
+      - name: Değişiklikleri Repoya Yükle
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          # Oluşan JSON ve M3U dosyalarını ekle
+          git add kanald.json kanald.m3u
+          
+          # Değişiklik varsa commit at, yoksa sessizce geç
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Güncel Liste: $(date)" && git push)
