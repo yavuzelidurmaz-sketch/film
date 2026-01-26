@@ -1,8 +1,8 @@
 from seleniumbase import SB
 import json
 import time
+import os
 
-# --- KULLANICI BİLGİLERİ ---
 EMAIL = "Yigitefealadag@gmail.com"
 PASSWORD = "Sa42758170+-++"
 
@@ -12,102 +12,99 @@ class AniziumBot:
         self.json_data = []
 
     def run(self):
-        # uc=True -> Undetected Mode (Cloudflare'i aşan mod)
-        # headless=False -> xvfb kullandığımız için False yapıyoruz (Linux'ta sanal ekranda çalışacak)
+        # reconnect_time: Cloudflare takılırsa sayfayı yenileme süresi
         with SB(uc=True, headless=False) as sb:
-            print("🌍 Site açılıyor...")
-            sb.open("https://anizium.co/login")
+            print("🌍 Site açılıyor (Cloudflare Korumalı)...")
             
-            # Sayfanın yüklenmesini bekle
-            sb.sleep(4)
-            
-            # --- GİRİŞ YAPMA ---
-            print(f"👤 Giriş yapılıyor: {EMAIL}")
             try:
-                # Login inputlarını bul ve yaz
-                sb.type('input[name="email"]', EMAIL)
-                sb.type('input[name="password"]', PASSWORD)
+                # 1. Cloudflare'i atlatarak açmayı dene
+                sb.uc_open_with_reconnect("https://anizium.co/login", reconnect_time=6)
                 
-                # Giriş butonuna tıkla (Genel buton seçicisi)
-                sb.click('button[type="submit"]')
+                # 2. Eğer Cloudflare kutucuğu varsa tıkla
+                if sb.is_element_visible('iframe[src*="cloudflare"]'):
+                    print("🛡️ Cloudflare tespit edildi, tıklanıyor...")
+                    sb.uc_gui_click_captcha()
                 
-                # Giriş sonrası yönlendirmeyi bekle
-                sb.sleep(6)
-            except Exception as e:
-                print(f"⚠️ Giriş ekranında sorun: {e}")
-                # Belki zaten giriş yapılıdır, devam et
+                sb.sleep(5) # Sayfanın oturmasını bekle
+                
+                # Başlık kontrolü (Nereye geldik?)
+                print(f"📍 Mevcut Sayfa Başlığı: {sb.get_title()}")
 
-            # --- ANIME LİSTESİNİ ÇEKME ---
-            print("📋 Anime listesi alınıyor...")
-            # API'ye tarayıcı üzerinden gidiyoruz (Cookie sorunu olmasın diye)
-            sb.open("https://api.anizium.co/page/top?platform=all&page=1")
-            
-            # Ekranda yazan JSON verisini al (pre etiketi içinde olur genelde)
-            try:
+                # 3. Giriş Yap
+                print(f"👤 Giriş yapılıyor: {EMAIL}")
+                
+                # Eğer input yoksa fotoğraf çek ve hata ver
+                if not sb.is_element_visible('input[name="email"]'):
+                    print("⚠️ Email kutusu bulunamadı! Ekran görüntüsü alınıyor...")
+                    sb.save_screenshot("hata_ekrani.png")
+                    # Sayfa kaynağını da yazdıralım ki ne var görelim
+                    print("Sayfa Kaynağı Özeti:", sb.get_text("body")[:200])
+                else:
+                    sb.type('input[name="email"]', EMAIL)
+                    sb.type('input[name="password"]', PASSWORD)
+                    sb.click('button[type="submit"]')
+                    sb.sleep(5)
+
+                # 4. Verileri Çek
+                print("📋 Anime listesi API'den isteniyor...")
+                sb.open("https://api.anizium.co/page/top?platform=all&page=1")
+                
+                # JSON hatası almamak için metni saf haliyle al
                 json_text = sb.get_text("body")
-                data = json.loads(json_text)
                 
-                # Veri yapısını çöz
-                anime_list = []
-                if "data" in data and isinstance(data["data"], list):
-                    anime_list = data["data"]
-                elif "data" in data and "items" in data["data"]:
-                    anime_list = data["data"]["items"]
-                
-                print(f"✅ Bulunan Anime: {len(anime_list)}")
-                
-                # --- VİDEO LİNKLERİNİ TOPLAMA ---
-                for anime in anime_list:
-                    name = anime.get("name", "Bilinmeyen")
-                    a_id = anime.get("id")
-                    poster = anime.get("poster", "")
-                    if poster and not poster.startswith("http"):
-                        poster = f"https://anizium.co{poster}"
-                    
-                    # Kaynak URL'sine git
-                    source_url = f"https://api.anizium.co/anime/source?id={a_id}&season=1&episode=1&server=1&plan=standart&lang=tr"
-                    sb.open(source_url)
-                    
+                # Eğer Cloudflare engeli hala varsa HTML döner, kontrol et
+                if "Cloudflare" in json_text or "<html" in json_text:
+                    print("❌ API hala Cloudflare engeline takılıyor.")
+                    sb.save_screenshot("api_engeli.png")
+                else:
                     try:
-                        src_text = sb.get_text("body")
-                        src_data = json.loads(src_text)
-                        
-                        if src_data and "data" in src_data:
-                            sources = src_data["data"].get("sources", [])
-                            video_url = None
+                        data = json.loads(json_text)
+                        anime_list = []
+                        if "data" in data and isinstance(data["data"], list):
+                            anime_list = data["data"]
+                        elif "data" in data and "items" in data["data"]:
+                            anime_list = data["data"]["items"]
+
+                        print(f"✅ Bulunan Anime: {len(anime_list)}")
+
+                        for anime in anime_list:
+                            name = anime.get("name", "Bilinmeyen")
+                            a_id = anime.get("id")
+                            poster = anime.get("poster", "")
+                            if poster and not poster.startswith("http"):
+                                poster = f"https://anizium.co{poster}"
+
+                            # Kaynağa git
+                            src_url = f"https://api.anizium.co/anime/source?id={a_id}&season=1&episode=1&server=1&plan=standart&lang=tr"
+                            sb.open(src_url)
+                            try:
+                                src_body = sb.get_text("body")
+                                src_json = json.loads(src_body)
+                                if "data" in src_json:
+                                    sources = src_json["data"].get("sources", [])
+                                    for s in sources:
+                                        f = s.get("file", "")
+                                        if "m3u8" in f or "mp4" in f:
+                                            self.m3u_content += f'#EXTINF:-1 tvg-logo="{poster}" group-title="Anime",{name}\n{f}\n'
+                                            self.json_data.append({"name": name, "image": poster, "url": f})
+                                            print(f"➕ {name}")
+                                            break
+                            except:
+                                pass
                             
-                            for s in sources:
-                                f_path = s.get("file", "")
-                                if "m3u8" in f_path or "mp4" in f_path:
-                                    video_url = f_path
-                                    break
-                            
-                            if video_url:
-                                self.m3u_content += f'#EXTINF:-1 tvg-logo="{poster}" group-title="Anime",{name}\n{video_url}\n'
-                                self.json_data.append({
-                                    "name": name,
-                                    "image": poster,
-                                    "url": video_url,
-                                    "referer": "https://anizium.co/"
-                                })
-                                print(f"➕ Eklendi: {name}")
-                    except:
-                        pass
-                    
-                    # Çok hızlı istek atıp banlanmamak için bekle
-                    sb.sleep(0.5)
+                    except json.JSONDecodeError:
+                        print(f"❌ JSON okunamadı. Gelen veri: {json_text[:100]}")
 
             except Exception as e:
-                print(f"❌ Veri çekme hatası: {e}")
+                print(f"❌ Genel Hata: {e}")
+                sb.save_screenshot("genel_hata.png")
 
-            # --- DOSYALARI KAYDET ---
+            # Dosyaları kaydet
             with open("anizium.m3u", "w", encoding="utf-8") as f:
                 f.write(self.m3u_content)
-            
             with open("anizium.json", "w", encoding="utf-8") as f:
                 json.dump(self.json_data, f, indent=4, ensure_ascii=False)
-                
-            print("✅ Dosyalar başarıyla oluşturuldu.")
+            print("✅ Dosyalar güncellendi.")
 
 if __name__ == "__main__":
     AniziumBot().run()
