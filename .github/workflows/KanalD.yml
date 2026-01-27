@@ -1,11 +1,11 @@
-name: KanalD Scraper JSON/M3U
+name: KanalD Scraper
 
 on:
   workflow_dispatch:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '0 9 * * *' # Her gün TSİ 12:00 civarı
+    - cron: '0 9 * * *' # Her gün saat 09:00 UTC (TSİ 12:00)
 
 jobs:
   build:
@@ -29,13 +29,29 @@ jobs:
       - name: Scripti çalıştır
         run: python kanald.py
 
-      - name: Değişiklikleri Repoya Yükle
+      - name: Git yapılandırması
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          
-          # Oluşan JSON ve M3U dosyalarını ekle
-          git add kanald.json kanald.m3u
-          
-          # Değişiklik varsa commit at, yoksa sessizce geç
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Güncel Liste: $(date)" && git push)
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "GitHub Actions"
+
+      # --- ÇÖZÜM BÖLÜMÜ (Çakışma Önleyici) ---
+      - name: Çakışmayı önlemek için değişiklikleri stash'e al
+        run: |
+          git add -A
+          git stash
+
+      - name: Uzaktaki (remote) son değişiklikleri çek
+        run: |
+          git pull --rebase
+
+      - name: Stash'teki değişiklikleri geri yükle
+        run: |
+          git stash pop || true
+      # --- ÇÖZÜM BİTİŞ ---
+
+      - name: M3U Çıktısını Commit Et
+        run: |
+          git add kanald.m3u
+          # Eğer değişiklik varsa commit at, yoksa hata verme
+          git diff --staged --quiet || git commit -m "Kanal D playlist güncellendi [$(date +"%Y-%m-%d %H:%M:%S")]"
+          git push
