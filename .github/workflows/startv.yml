@@ -52,5 +52,5 @@ jobs:
       - name: M3U Çıktısını Commit Et
         run: |
           git add startv.m3u
-          git commit -m "startv playlist güncellendi [$(date +"%Y-%m-%d %H:%M:%S")]"
+          git commit -m "startv dizi ve programlar güncellendi [$(date +"%Y-%m-%d %H:%M:%S")]"
           git push
