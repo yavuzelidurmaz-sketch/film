@@ -76,50 +76,55 @@ def clean_image_url(url):
     if "?" in url: url = url.split("?")[0]
     return url.strip()
 
-def get_series_list():
-    """Ana sayfadan tüm dizi linklerini ve resimlerini al"""
-    print("Diziler ve afişleri listeleniyor...")
-    soup = get_soup(f"{BASE_URL}/dizi")
+def get_content_list(category):
+    """Belirtilen kategorideki (dizi veya program) linkleri ve resimleri al"""
+    print(f"\n--- {category.upper()} Listesi Taranıyor ---")
+    url = f"{BASE_URL}/{category}"
+    soup = get_soup(url)
     if not soup: return []
 
-    series_list = []
+    content_list = []
     seen = set()
-    links = soup.find_all("a", href=re.compile(r'^/dizi/'))
+    
+    # Kategoriye göre regex oluştur (örn: /dizi/ veya /program/)
+    pattern = re.compile(rf'^/{category}/')
+    links = soup.find_all("a", href=pattern)
 
     for link in links:
         href = link.get("href")
         if not href or href in seen: continue
         seen.add(href)
 
-        dizi_name = "Bilinmeyen Dizi"
+        item_name = "Bilinmeyen İçerik"
         img_tag = link.find("img")
         poster_url = ""
 
         if img_tag:
             if img_tag.get("alt") and img_tag.get("alt") != "alt":
-                dizi_name = img_tag.get("alt").strip()
+                item_name = img_tag.get("alt").strip()
             if img_tag.get("src"): poster_url = img_tag.get("src")
             elif img_tag.get("data-src"): poster_url = img_tag.get("data-src")
             poster_url = clean_image_url(poster_url)
 
-        if dizi_name == "Bilinmeyen Dizi":
+        if item_name == "Bilinmeyen İçerik":
             parts = href.split("/")
             if len(parts) >= 3:
                 slug = parts[-2]
-                dizi_name = slug.replace("-", " ").title()
+                item_name = slug.replace("-", " ").title()
 
-        series_list.append({
-            "name": dizi_name,
+        content_list.append({
+            "name": item_name,
             "slug": href.split("/")[-2] if "/" in href else "",
             "url": BASE_URL + href,
             "detail_url": BASE_URL + href + "/bolumler",
-            "poster": poster_url
+            "poster": poster_url,
+            "type": category.upper() # DİZİ veya PROGRAM etiketi için
         })
-    print(f"Toplam {len(series_list)} adet dizi bulundu.")
-    return series_list
+    print(f"{category.upper()} kategorisinde {len(content_list)} adet içerik bulundu.")
+    return content_list
 
 def get_api_url_from_page(url):
-    """Dizi sayfasından apiUrl al"""
+    """Sayfadan apiUrl al"""
     print(f"    [i] API URL aranıyor...")
     soup = get_soup(url)
     if not soup: return None
@@ -161,7 +166,6 @@ def get_episodes_from_api(api_path):
 
                 stream_url = ""
                 if "video" in item and item["video"].get("referenceId"):
-                    # M3U8 linkini direkt olarak burada oluşturuyoruz
                     stream_url = f'https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_{item["video"]["referenceId"]}&SecretKey=NtvApiSecret2014*&.m3u8'
 
                 if stream_url:
@@ -183,27 +187,31 @@ def get_episodes_from_api(api_path):
     return episodes
 
 def main():
-    print("Star TV Dizileri ve Bölümleri taranıyor (M3U Modu)...")
-    series_list = get_series_list()
-    if not series_list:
-        print("Hiç dizi bulunamadı!")
+    print("Star TV Tüm İçerik Taranıyor (M3U Modu)...")
+    
+    all_content = []
+    
+    # Hem DİZİ hem PROGRAM listelerini çekip birleştiriyoruz
+    all_content.extend(get_content_list("dizi"))
+    all_content.extend(get_content_list("program"))
+
+    if not all_content:
+        print("Hiç içerik bulunamadı!")
         return
 
-    diziler_data = {}
+    final_data = {}
 
-    for idx, series in enumerate(series_list, 1):
+    for idx, item in enumerate(all_content, 1):
         try:
-            dizi_adi = series["name"]
-            dizi_id = slugify(dizi_adi) # ID olarak kullanılır
+            item_name = item["name"]
+            item_id = slugify(item_name)
             
-            # M3U Group Title için temiz isim saklayalım
-            clean_title = dizi_adi 
+            print(f"\n[{idx}/{len(all_content)}] --> İşleniyor ({item['type']}): {item_name}")
 
-            print(f"\n[{idx}/{len(series_list)}] --> İşleniyor: {dizi_adi}")
-
-            poster_url = series["poster"]
+            poster_url = item["poster"]
+            # Eğer ana sayfada resim yoksa detay sayfasına bak
             if not poster_url:
-                detail_soup = get_soup(series["url"])
+                detail_soup = get_soup(item["url"])
                 if detail_soup:
                     img_tag = detail_soup.find("img", src=re.compile(r'media\.startv\.com\.tr'))
                     if img_tag and img_tag.get("src"):
@@ -211,7 +219,7 @@ def main():
                     elif detail_soup.find("meta", property="og:image"):
                         poster_url = clean_image_url(detail_soup.find("meta", property="og:image").get("content", ""))
 
-            api_path = get_api_url_from_page(series["detail_url"])
+            api_path = get_api_url_from_page(item["detail_url"])
             if not api_path:
                 print(f"    [✗] API URL bulunamadı, atlanıyor.")
                 continue
@@ -219,33 +227,36 @@ def main():
             episodes = get_episodes_from_api(api_path)
 
             if episodes:
+                # Bölüm numarasına göre sırala
                 episodes = sorted(episodes, key=lambda x: x['episode_num'])
                 
-                # Resim kontrolü
+                # Bölüm resmi kontrolü
                 if not poster_url and episodes and episodes[0]["img"]:
                     poster_url = episodes[0]["img"]
+                
+                # Placeholder
                 if not poster_url:
                     poster_url = "https://via.placeholder.com/300x450/15161a/ffffff?text=STAR+TV"
 
-                diziler_data[dizi_id] = {
-                    "title": clean_title, # Gerçek başlığı sakla
+                final_data[item_id] = {
+                    "title": item_name,
                     "resim": poster_url,
-                    "bolumler": episodes
+                    "bolumler": episodes,
+                    "type": item['type']
                 }
-                print(f"    [✓] {len(episodes)} bölüm eklendi.")
+                print(f"    [✓] {len(episodes)} video eklendi.")
             else:
-                print(f"    [✗] Hiç bölüm bulunamadı.")
+                print(f"    [✗] Hiç video bulunamadı.")
 
         except Exception as e:
-            print(f"    [HATA] Dizi işlenirken hata: {e}")
+            print(f"    [HATA] İçerik işlenirken hata: {e}")
             continue
 
     print("\n" + "="*50)
-    print(f"Toplam {len(diziler_data)} dizi başarıyla işlendi!")
+    print(f"Toplam {len(final_data)} içerik başarıyla işlendi!")
     print("="*50)
 
-    # HTML yerine M3U oluşturma fonksiyonunu çağırıyoruz
-    create_m3u_file(diziler_data)
+    create_m3u_file(final_data)
 
 def create_m3u_file(data):
     """Verileri M3U formatına çevirip kaydeder."""
@@ -254,20 +265,20 @@ def create_m3u_file(data):
     with open(filename, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         
-        # Dizileri döngüye al
-        for dizi_id, content in data.items():
+        for item_id, content in data.items():
             group_title = content['title']
             tvg_logo = content['resim']
+            # Dilersen group-title'a "DİZİ" veya "PROGRAM" ekleyebilirsin, şu an başlığı kullanıyoruz.
             
             for bolum in content['bolumler']:
                 bolum_adi = bolum['clean_name']
                 link = bolum['link']
                 
                 # M3U satırını oluştur
-                # Format: #EXTINF:-1 group-title="Dizi Adı" tvg-logo="URL", Dizi Adı - Bölüm Adı
-                line_title = f"{group_title} - {bolum_adi}"
+                # Bölüm adını tam başlık ile birleştiriyoruz ki listede düzgün görünsün
+                full_title = f"{group_title} - {bolum_adi}"
                 
-                f.write(f'#EXTINF:-1 group-title="{group_title}" tvg-logo="{tvg_logo}",{line_title}\n')
+                f.write(f'#EXTINF:-1 group-title="{group_title}" tvg-logo="{tvg_logo}",{full_title}\n')
                 f.write(f'{link}\n')
 
     print(f"M3U dosyası '{filename}' oluşturuldu!")
