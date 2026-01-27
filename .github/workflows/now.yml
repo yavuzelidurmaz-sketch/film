@@ -2,13 +2,13 @@ name: NowTV VOD Scraper
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Her gece 03:00'da çalışır
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15 # Uzun sürerse 15dk sonra iptal et
+    timeout-minutes: 15  # <-- Takılmayı önler
 
     permissions:
       contents: write
@@ -34,23 +34,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name  "GitHub Actions"
 
-      # --- GÜVENLİ GİT İŞLEMİ (Conflict Önleyici) ---
-      - name: Çakışmayı önlemek için değişiklikleri stash'e al
-        run: |
-          git add -A
-          git stash
-
-      - name: Uzaktaki (remote) son değişiklikleri çek
-        run: |
-          git pull --rebase
-
-      - name: Stash'teki değişiklikleri geri yükle
-        run: |
-          git stash pop || true
-
-      - name: M3U Çıktısını Commit Et
+      - name: Commit ve Push
         run: |
           git add nowtv.m3u
-          # Değişiklik varsa commit et, yoksa hata verme
-          git diff --staged --quiet || git commit -m "NOW TV playlist güncellendi [$(date +'%Y-%m-%d %H:%M:%S')]"
-          git push
+          # Hata vermesin diye kontrol ekledik
+          git diff --staged --quiet || git commit -m "NOW TV Güncellemesi"
+          
+          # Çakışma önleyici pull
+          git pull --rebase origin main || true
+          git push origin main
