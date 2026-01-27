@@ -535,8 +535,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/W/Sa/password_14blm/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/x/Dm/password_13_bolum/password_13_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 12. Bölüm - Yılmaz Vural
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/M/Ir/password_12blm/password_12blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 11. Bölüm - Melis Sezen
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/N/Vz/password_11blm/password_11blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 10. Bölüm - Seda Sayan - YENİ SEZON
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/u/F3/password_rev10bolum/password_rev10bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 9. Bölüm - Nilperi Şahinkaya - SEZON FİNALİ
@@ -3273,8 +3271,6 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/215199_4fd0/index.m3u8
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/215047_4ea0/index.m3u8
 #EXTINF:-1 group-title="Kanal D ile Günaydın Türkiye" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59db41a549678342500a6d5b.jpg",Kanal D ile Günaydın Türkiye - Kanal D ile Günaydın Türkiye - 07.05.2018
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/214891_4d67/index.m3u8
-#EXTINF:-1 group-title="Şule ile Vitrindekiler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59c8e4ebcbbf340ed405ec26.jpg",Şule ile Vitrindekiler - Şule ile Vitrindekiler / 30.12.2018
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/233707_8648/index.m3u8
 #EXTINF:-1 group-title="Şule ile Vitrindekiler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59c8e4ebcbbf340ed405ec26.jpg",Şule ile Vitrindekiler - Şule ile Vitrindekiler / 23.12.2018
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/233047_8120/index.m3u8
 #EXTINF:-1 group-title="Şule ile Vitrindekiler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59c8e4ebcbbf340ed405ec26.jpg",Şule ile Vitrindekiler - Şule ile Vitrindekiler / 16.12.2018
@@ -4107,6 +4103,8 @@ https://kanaldvod.duhnet.tv/S7/HLS_VOD/43260_2360/index.m3u8
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/99023_6ea8/index.m3u8
 #EXTINF:-1 group-title="Abbas Güçlü ile Genç Bakış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356dba84687ed42a4b8062.jpg",Abbas Güçlü ile Genç Bakış - 18.05.2016 / Genç Bakış / Prof. Dr. Temuçin Faik Ertan
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/98583_b563/index.m3u8
+#EXTINF:-1 group-title="Abbas Güçlü ile Genç Bakış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356dba84687ed42a4b8062.jpg",Abbas Güçlü ile Genç Bakış - 11.05.2016 / Genç Bakış / Hüseyin Baraner
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/98174_cab8/index.m3u8
 #EXTINF:-1 group-title="Abbas Güçlü ile Genç Bakış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356dba84687ed42a4b8062.jpg",Abbas Güçlü ile Genç Bakış - 04.05.2016 / Genç Bakış / Özgür Özel
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/97662_fa1d/index.m3u8
 #EXTINF:-1 group-title="Abbas Güçlü ile Genç Bakış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356dba84687ed42a4b8062.jpg",Abbas Güçlü ile Genç Bakış - 20.04.2016 / Genç Bakış / Prof.Dr Sinan Canan
