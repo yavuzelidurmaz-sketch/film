@@ -2,8 +2,8 @@ name: Anizium Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
+  workflow_dispatch: # Elle tetiklemek için
 
 permissions:
   contents: write
@@ -23,13 +23,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          # Ekran kartı emülatörü (xvfb) ve DrissionPage kuruyoruz
           sudo apt-get update
           sudo apt-get install -y xvfb
-          pip install DrissionPage
+          pip install DrissionPage requests
 
       - name: Run Scraper
-        # Sanal ekranda çalıştır
+        # Sanal ekran (xvfb) içinde main.py çalıştırılır
         run: xvfb-run python main.py
 
       - name: Upload Debug Screenshot
@@ -44,7 +43,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
+          # Dosyalar yoksa oluştur (hata vermemesi için)
           touch anizium.m3u anizium.json
+          
           git add anizium.m3u anizium.json
-          git diff-index --quiet HEAD || git commit -m "Playlist Guncellendi"
+          
+          # Eğer değişiklik varsa commit yap, yoksa hata verme
+          git diff-index --quiet HEAD || git commit -m "Playlist Guncellendi [Otomatik]"
           git push
