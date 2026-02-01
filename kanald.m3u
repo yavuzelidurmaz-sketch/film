@@ -392,7 +392,7 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/j/_M/anahaber_190120
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 31.01.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/-/pd/haberay_3101/haberay_3101.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 25.01.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/r/Yf/anahaber_25012026/anahaber_25012026.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/-/pd/haberay_3101/haberay_3101.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 24.01.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/w/BM/anahaber_24012026/anahaber_24012026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 18.01.2026
@@ -409,6 +409,11 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/q/Sq/haber_0401/habe
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/-/8X/haber_0301blm/haber_0301blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 28.12.2025
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/0I/anahaber_28122025/anahaber_28122025.smil/playlist.m3u8
+<<<<<<< Updated upstream
+=======
+#EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 27.12.2025
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/x/8u/anahaber_27122025/anahaber_27122025.smil/playlist.m3u8
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 31.01.2026 / Magazin D Cumartesi
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/L/LC/mg_420blmcum/mg_420blmcum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 24.01.2026 / Magazin D Cumartesi
@@ -3171,8 +3176,6 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/209859_2614/index.m3u8
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/208663_1cbc/index.m3u8
 #EXTINF:-1 group-title="Sahrap'la Anadolu Lezzetleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a7da2e74967834684929cd0.jpg",Sahrap'la Anadolu Lezzetleri - Sahrap'la Anadolu Lezzetleri / 12.08.2018 - FİNAL
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/223562_f473/index.m3u8
-#EXTINF:-1 group-title="Sahrap'la Anadolu Lezzetleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a7da2e74967834684929cd0.jpg",Sahrap'la Anadolu Lezzetleri - Sahrap'la Anadolu Lezzetleri / 05.08.2018
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/223019_f035/index.m3u8
 #EXTINF:-1 group-title="Sahrap'la Anadolu Lezzetleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a7da2e74967834684929cd0.jpg",Sahrap'la Anadolu Lezzetleri - Sahrap'la Anadolu Lezzetleri / 29.07.2018
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/222438_ebab/index.m3u8
 #EXTINF:-1 group-title="Sahrap'la Anadolu Lezzetleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a7da2e74967834684929cd0.jpg",Sahrap'la Anadolu Lezzetleri - Sahrap'la Anadolu Lezzetleri / 22.07.2018
