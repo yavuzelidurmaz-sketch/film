@@ -19,6 +19,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/_/gB/gvg_10blm_altba
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/9/Um/gvg_9bolum/gvg_9bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Güller ve Günahlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c85dfff35cf5ba33dfcd69.jpg",Güller ve Günahlar - Güller ve Günahlar 8. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/S/yf/gg_8_bolum/gg_8_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 33. Bölüm - 9 Nisan'da yayında
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/X/zw/er_bol33_9nisan/er_bol33_9nisan.smil/playlist.m3u8
 #EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 32. Bölüm - 2 Nisan'da yayında
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/gp/er_bol32_2nisan/er_bol32_2nisan.smil/playlist.m3u8
 #EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 31. Bölüm - 26 Mart'ta yayında
@@ -37,8 +39,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/i/EV/er_26bolum_rev/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/g/QJ/esrefruya_25_bolum/esrefruya_25_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 24. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/K/on/er_24blm/er_24blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 23. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/6/CH/er_23bolum/er_23bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uzak Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68b94064846cac640f87db45.jpg",Uzak Şehir - Uzak Şehir 50. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/bu/us_50_bolum/us_50_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uzak Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68b94064846cac640f87db45.jpg",Uzak Şehir - Uzak Şehir 49. Bölüm
@@ -335,6 +335,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/G/Lr/sah_22bolum/sah
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/U/DW/sah21/sah21.smil/playlist.m3u8
 #EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 20.03.2025
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Y/_P/sah_20blm/sah_20blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1783. Bölüm / 18 Şubat 2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/m/82/gm_1783/gm_1783.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1782. Bölüm / 17 Şubat 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/V/al/gm_1782/gm_1782.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1781. Bölüm / 16 Şubat 2026
@@ -353,8 +355,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/f/Hz/gm_1776blm/gm_1
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/n/hZ/gm1775/gm1775.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1774. Bölüm / 5 Şubat 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/fC/gm_1774blm/gm_1774blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1773. Bölüm / 4 Şubat 2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/3/7F/gm_1773blm/gm_1773blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 18.02.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/q/6J/noh_1495blm/noh_1495blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 17.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/K/YW/noh_1494blm/noh_1494blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 16.02.2026
@@ -373,8 +375,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/K/xe/noh_1488/noh_14
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/2/EA/noh1487/noh1487.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 05.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/_/nW/noh_1486/noh_1486.smil/playlist.m3u8
-#EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 04.02.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/I/-O/noh_1485/noh_1485.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535cfe4453951504a95c64.jpg",Arda'nın Mutfağı - Arda'nın Mutfağı 275. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/r/mZ/arda_275_bolum/arda_275_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535cfe4453951504a95c64.jpg",Arda'nın Mutfağı - Arda'nın Mutfağı 274. Bölüm
@@ -415,6 +415,10 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Q/N-/arom_239_bolum/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/1/V-/arda_omuzomuza_238_bolum_logolu/arda_omuzomuza_238_bolum_logolu.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 237. Bölüm - Arif Pişkin
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/z/Cb/arom_237_bolum/arom_237_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 18.02.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/z/-H/anahaber_18022026/anahaber_18022026.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 17.02.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/8/-y/anahaber_17022026/anahaber_17022026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 16.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/n/GP/anahaber_16022026/anahaber_16022026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 13.02.2026
@@ -431,10 +435,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/k/cr/anahaber_090226
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/Nf/anahaber_06022026/anahaber_06022026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 05.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/R/KV/anahaber_050226/anahaber_050226.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 04.02.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/n/ib/anahaber_040226/anahaber_040226.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 03.02.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Q/7w/anahaber_03022026/anahaber_03022026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 15.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/7/X9/15022026anahaber/15022026anahaber.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 14.02.2026
@@ -649,6 +649,8 @@ https://kanaldvod.duhnet.tv/S12/HLS_VOD/339377_833c/index.m3u8
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/339128_814a/index.m3u8
 #EXTINF:-1 group-title="Ece Üner ile Susma" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68babec8d62926e00edbcb02.jpg",Ece Üner ile Susma - Ece Üner ile Susma 89. Bölüm / 09 Aralık 2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/338996_7c67/index.m3u8
+#EXTINF:-1 group-title="Ece Üner ile Susma" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68babec8d62926e00edbcb02.jpg",Ece Üner ile Susma - Ece Üner ile Susma 88. Bölüm / 08 Aralık 2021
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/338858_7b53/index.m3u8
 #EXTINF:-1 group-title="Ece Üner ile Susma" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68babec8d62926e00edbcb02.jpg",Ece Üner ile Susma - Ece Üner ile Susma 87. Bölüm / 07 Aralık 2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/338753_7a81/index.m3u8
 #EXTINF:-1 group-title="Ece Üner ile Susma" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68babec8d62926e00edbcb02.jpg",Ece Üner ile Susma - Ece Üner ile Susma 86. Bölüm / 06 Aralık 2021
@@ -859,6 +861,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/1/yE/asg69blm/asg69b
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/1/XH/asg68blm/asg68blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ayazın Sonu Güneş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6698e16a680c196bbc2f75fd.jpg",Ayazın Sonu Güneş - Ayazın Sonu Güneş 67. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/g/ZD/asg67blm/asg67blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ayazın Sonu Güneş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6698e16a680c196bbc2f75fd.jpg",Ayazın Sonu Güneş - Ayazın Sonu Güneş 66. Bölüm
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/J/Mx/asg66blm/asg66blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ayazın Sonu Güneş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6698e16a680c196bbc2f75fd.jpg",Ayazın Sonu Güneş - Ayazın Sonu Güneş 65. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/M/xx/asg65blm/asg65blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bizi Birleştiren Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66c86049c878140fdb9086db.jpg",Bizi Birleştiren Hayat - Bizi Birleştiren Hayat 50. Bölüm
@@ -937,8 +941,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/1/ZI/dt11_blm/dt11_b
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/6/Wy/ukk84blmfnl/ukk84blmfnl.smil/playlist.m3u8
 #EXTINF:-1 group-title="Üç Kız Kardeş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/651becf1933ccb1740938ac8.jpg",Üç Kız Kardeş - Üç Kız Kardeş 83. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/LS/ukk83blm/ukk83blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Üç Kız Kardeş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/651becf1933ccb1740938ac8.jpg",Üç Kız Kardeş - Üç Kız Kardeş 82. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/D/Dm/ukk_82_blm/ukk_82_blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Üç Kız Kardeş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/651becf1933ccb1740938ac8.jpg",Üç Kız Kardeş - Üç Kız Kardeş 81. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/x/Fu/uckk_81blm/uckk_81blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Üç Kız Kardeş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/651becf1933ccb1740938ac8.jpg",Üç Kız Kardeş - Üç Kız Kardeş 80. Bölüm
@@ -1431,6 +1433,8 @@ https://kanaldvod.duhnet.tv/S9/HLS_VOD/105349_9050/index.m3u8
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/104921_4aac/index.m3u8
 #EXTINF:-1 group-title="Tatlı İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57ee6120402011aa14619cb5.jpg",Tatlı İntikam - Tatlı İntikam 21. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/104364_abe6/index.m3u8
+#EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı Final Bölümü
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/146154_9434/index.m3u8
 #EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı 8. Bölüm
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/145677_d30f/index.m3u8
 #EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı 7. Bölüm
@@ -2503,6 +2507,8 @@ https://kanaldvod.duhnet.tv/S5/HLS_VOD/33490_ad86/index.m3u8
 https://kanaldvod.duhnet.tv/S5/HLS_VOD/33489_386f/index.m3u8
 #EXTINF:-1 group-title="Küçük Kadınlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834deb684687ed42a4b7f5b.jpg",Küçük Kadınlar - 71.Bölüm
 https://kanaldvod.duhnet.tv/S5/HLS_VOD/33491_6596/index.m3u8
+#EXTINF:-1 group-title="Küçük Kadınlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834deb684687ed42a4b7f5b.jpg",Küçük Kadınlar - 70.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/33339_6632/index.m3u8
 #EXTINF:-1 group-title="Küçük Kadınlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834deb684687ed42a4b7f5b.jpg",Küçük Kadınlar - 54.bölüm
 https://kanaldvod.duhnet.tv/S5/HLS_VOD/33323_dfa8/index.m3u8
 #EXTINF:-1 group-title="Muhteşem İkili" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5bcf2aa47470f70070b4d670.jpg",Muhteşem İkili - Muhteşem İkili 12. Bölüm - FİNAL
@@ -2741,16 +2747,6 @@ https://kanaldvod.duhnet.tv/S12/HLS_VOD/340669_8d54/index.m3u8
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/339970_87de/index.m3u8
 #EXTINF:-1 group-title="Balçiçek'le Sohbete Geldik" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa27d074453952f88c33b1e.jpg",Balçiçek'le Sohbete Geldik - Balçiçek'le Sohbete Geldik 51. Bölüm / 12 Aralık 2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/339220_8202/index.m3u8
-#EXTINF:-1 group-title="Balçiçek'le Sohbete Geldik" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa27d074453952f88c33b1e.jpg",Balçiçek'le Sohbete Geldik - Balçiçek'le Sohbete Geldik 50. Bölüm / 5 Aralık 2021
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/338366_777b/index.m3u8
-#EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 35. Bölüm / 15.01.2021
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/305716_5790/index.m3u8
-#EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 34. Bölüm / 14.01.2021
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/305609_56ba/index.m3u8
-#EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 33. Bölüm / 13.01.2021
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/305486_55c4/index.m3u8
-#EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 32. Bölüm / 12.01.2021
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/305384_54f8/index.m3u8
 #EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 31. Bölüm / 11.01.2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/305266_540c/index.m3u8
 #EXTINF:-1 group-title="Yatıya Misafirim Var " tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fa3ac393ab1662614c12836.jpg",Yatıya Misafirim Var  - Yatıya Misafirim Var 30. Bölüm / 08.01.2021
