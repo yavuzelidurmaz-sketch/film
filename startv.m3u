@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sevdiğim Sensin" tvg-logo="https://media.startv.com.tr/star-tv/images/sevd.jpg",Sevdiğim Sensin - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698d68bc3754260b3ea63df3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdiğim Sensin" tvg-logo="https://media.startv.com.tr/star-tv/images/sevd.jpg",Sevdiğim Sensin - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6996a26c3460ad999fb90bf4&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Çarpıntı" tvg-logo="https://media.startv.com.tr/star-tv/images/starweb1242_1730px(12).jpg",Çarpıntı - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68ba7a5af938f782d36506c6&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Çarpıntı" tvg-logo="https://media.startv.com.tr/star-tv/images/starweb1242_1730px(12).jpg",Çarpıntı - 2. Bölüm
@@ -183,6 +185,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698394133754260b3ea639fb&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sahipsizler" tvg-logo="https://media.startv.com.tr/star-tv/images/sahipsizlerafis(2).jpg",Sahipsizler - 48. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698c1be93754260b3ea63d04&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sahipsizler" tvg-logo="https://media.startv.com.tr/star-tv/images/sahipsizlerafis(2).jpg",Sahipsizler - 49. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6995606b3460ad999fb90b27&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yalı Çapkını" tvg-logo="https://media.startv.com.tr/star-tv/images/6c4b4ac44fca80e6864b876d.jpg",Yalı Çapkını - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90511&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yalı Çapkını" tvg-logo="https://media.startv.com.tr/star-tv/images/6c4b4ac44fca80e6864b876d.jpg",Yalı Çapkını - 2. Bölüm
@@ -9903,6 +9907,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_30
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_30076&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Baba Ocağı" tvg-logo="https://media.startv.com.tr/star-tv/images/da6c541445c9a15fc5b98122.jpg",Baba Ocağı - 52. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_30077&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pelin ve Tahsin Mutfakta" tvg-logo="https://media.startv.com.tr/star-tv/images/pelin(2).jpg",Pelin ve Tahsin Mutfakta - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69960b1a3460ad999fb90bd3&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 33. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68dd590f4a7aa2b49124b6fb&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 34. Bölüm
@@ -10087,6 +10093,10 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6993325c3460ad999fb90ac4&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 132. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6994833b3460ad999fb90b13&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 133. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6995c89b3460ad999fb90bbf&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 134. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6997157e3460ad999fb90c68&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66c3451e7f1df9cf36a27c59&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 2. Bölüm
@@ -10751,6 +10761,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69944e6a3460ad999fb90afc&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 353. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699570353460ad999fb90b32&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 354. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6996fd893460ad999fb90c61&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 242. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66e44146dc56cce6f915d3cf&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 243. Bölüm
@@ -16153,6 +16165,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69444675d77667c35593d56c&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_696d26ab3754260b3ea62f04&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6996ac083460ad999fb90bf8&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 19. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_75324&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 19. Bölüm
@@ -29770,7 +29784,7 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/6ce4bd03481299e31617f039.jpg",Mukabele - 29. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33319_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/6ce4bd03481299e31617f039.jpg",Mukabele - Mukabele Mukabele Star'da!
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33208&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7dde386fed5312c8eee1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/6ce4bd03481299e31617f039.jpg",Mukabele - Mukabele Kadir Gecesi Özel
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33311&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yerden Göğe" tvg-logo="https://media.startv.com.tr/star-tv/images/43f4ce1e4aa68576b630a0a7.jpg",Yerden Göğe - 1. Bölüm
