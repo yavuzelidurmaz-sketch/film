@@ -18,7 +18,7 @@ jobs:
 
       - name: Yayini Aktar (JPEG Hilesi Kirici Devrede)
         run: |
-          M3U8_LINK="https://live.zeustv.workers.dev/"
+          M3U8_LINK="https://zeustv32321.info/live/b1/playlist.m3u8"
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
           
           echo "Yayin Telegram'a basliyor..."
