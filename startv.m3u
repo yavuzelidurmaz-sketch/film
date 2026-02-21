@@ -9909,6 +9909,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_30
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_30077&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Pelin ve Tahsin Mutfakta" tvg-logo="https://media.startv.com.tr/star-tv/images/pelin(2).jpg",Pelin ve Tahsin Mutfakta - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69960b1a3460ad999fb90bd3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pelin ve Tahsin Mutfakta" tvg-logo="https://media.startv.com.tr/star-tv/images/pelin(2).jpg",Pelin ve Tahsin Mutfakta - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69960b343460ad999fb90bd7&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 33. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68dd590f4a7aa2b49124b6fb&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nur Viral ile Sen İstersen" tvg-logo="https://media.startv.com.tr/star-tv/images/1242_1730pxcopy(2).jpg",Nur Viral ile Sen İstersen - 34. Bölüm
@@ -10763,6 +10765,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699570353460ad999fb90b32&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 354. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6996fd893460ad999fb90c61&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 355. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69984b093460ad999fb910e4&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 242. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66e44146dc56cce6f915d3cf&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 243. Bölüm
@@ -11602,83 +11606,83 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 300. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91091&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 301. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91190&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391350f7378a107c20a713&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 302. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91271&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391352f7378a107c20a715&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 303. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91363&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391354f7378a107c20a717&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 304. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91461&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391357f7378a107c20a719&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 305. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91542&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391358f7378a107c20a71b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 306. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91630&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539135af7378a107c20a71d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 307. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91774&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539135cf7378a107c20a71f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 308. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91859&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539135ef7378a107c20a721&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 309. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91944&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391360f7378a107c20a723&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 310. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92025&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391361f7378a107c20a725&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 311. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92109&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391363f7378a107c20a727&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 312. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92445&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391365f7378a107c20a729&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 313. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92531&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391367f7378a107c20a72b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 315. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92729&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539136af7378a107c20a72f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 316. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92823&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539136cf7378a107c20a731&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 317. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92920&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539136ef7378a107c20a733&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 318. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92996&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391370f7378a107c20a735&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 319. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93112&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391371f7378a107c20a737&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 320. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93193&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391374f7378a107c20a739&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 321. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93244&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391376f7378a107c20a73b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 322. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93335&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391379f7378a107c20a73d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 323. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93411&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539137af7378a107c20a73f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 324. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93486&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539137cf7378a107c20a741&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 325. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93575&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539137ef7378a107c20a743&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 326. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93612&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391380f7378a107c20a745&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 327. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93932&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391382f7378a107c20a747&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 328. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93991&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391383f7378a107c20a749&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 329. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94051&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391385f7378a107c20a74b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 330. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94111&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391387f7378a107c20a74d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 331. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94183&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65391388f7378a107c20a74f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 332. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94230&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6539138af7378a107c20a751&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 333. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5df6386fed5312c8ce2b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 334. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94329&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5df9386fed5312c8ce2d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 335. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94425&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5dfb386fed5312c8ce2f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 336. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94441&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5dfd386fed5312c8ce31&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 337. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94523&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_657acbdab57d26f77196914b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 338. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94573&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_657acbdcb57d26f77196914d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 339. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94620&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_657acbdfb57d26f77196914f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 340. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_94668&SecretKey=NtvApiSecret2014*&.m3u8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_657ffba42b1247e00dabd315&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 341. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6585475d87335c56be2f19fa&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Evdeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/5497895343908a50656374e6.jpg",Vahe ile Evdeki Mutluluk - 342. Bölüm
@@ -16343,6 +16347,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_694591c0d77667c35593d65a&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 19. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_696e73903754260b3ea63427&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6997ff723460ad999fb90d45&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 20. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_75362&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 20. Bölüm
