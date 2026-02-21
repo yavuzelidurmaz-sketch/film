@@ -19,7 +19,7 @@ jobs:
       - name: Yayini Telegram'a Aktar (5.5 Saatlik Zirhli Dongu)
         run: |
           # Orijinal yayin linkin
-          M3U8_LINK="https://ngolokante3169.saplargecer.online/601/index.m3u8"
+          M3U8_LINK="https://zeustv32321.info/live/b1/playlist.m3u8"
           
           # Ilettigin Telegram Sunucu Linki ve Yayin Anahtarinin Birlestirilmis Hali:
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
