@@ -16,23 +16,30 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Yayini Telegram'a Aktar (5.5 Saatlik Zirhli Dongu)
+      - name: Yayini Aktar (Tam Kamuflajli Dongu)
         run: |
-          # Orijinal yayin linkin
           M3U8_LINK="https://zeustv32321.info/live/b1/playlist.m3u8"
-          
-          # Ilettigin Telegram Sunucu Linki ve Yayin Anahtarinin Birlestirilmis Hali:
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
           
-          echo "Yayin Telegram'a basliyor... Kopmalara karsi zirhli komut devrede."
+          echo "Yayin Telegram'a basliyor..."
+          END_TIME=$((SECONDS+19800))
           
-          # timeout 330m: Sistemi 5.5 saat sonra güvenlice durdurur
-          # -headers "Referer...": Sitenin engellemesini asar
-          timeout 330m ffmpeg -headers "Referer: https://ngolokante3169.saplargecer.online/" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -i "$M3U8_LINK" -c:v copy -c:a aac -b:a 128k -ar 44100 -f flv -flvflags no_duration_filesize "$RTMP" || true
+          while [ $SECONDS -lt $END_TIME ]; do
+              echo "FFmpeg devrede..."
+              
+              # DEĞİŞİKLİKLER:
+              # -re eklendi (Sistemi bot sanip 30 saniyede banlamamasi icin insan hizinda ceker)
+              # Extra Headers (Origin, Accept) eklendi tam bir tarayici taklidi yapar.
+              
+              ffmpeg -re -headers "Origin: https://zeustv32321.info" -headers "Referer: https://zeustv32321.info/" -headers "Accept: */*" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -i "$M3U8_LINK" -c:v copy -c:a aac -b:a 128k -ar 44100 -f flv -flvflags no_duration_filesize "$RTMP" || true
+              
+              echo "Baglanti koptu! 3 saniye icinde tekrar baslatiliyor..."
+              sleep 3
+          done
 
-      - name: Sistemi Yeniden Tetikle (Otomatik Dongu)
+      - name: Sistemi Yeniden Tetikle
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Sure doldu veya kaynak koptu! Yeni yayin dongusu baslatiliyor..."
+          echo "Sure doldu! Sistem yenileniyor..."
           gh workflow run "Zirhli Kesintisiz Yayin" --repo ${{ github.repository }} || true
