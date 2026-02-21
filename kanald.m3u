@@ -499,6 +499,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/y/lQ/magdpzr_bol398/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/J/_Q/magdp_397blm/magdp_397blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Pazar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6872297eff79654e7d12b629.jpg",Magazin D Pazar - 07.12.2025 / Magazin D Pazar
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/j/QO/mag_396blm/mag_396blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 470. Bölüm / 21.02.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/N/Gu/kon_470blm/kon_470blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 469. Bölüm / 15.02.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/N/Gu/kon_470blm/kon_470blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 468. Bölüm / 14.02.2026
@@ -517,8 +519,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/C/NE/kon_463bolm/kon
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/G/_I/kon_462blm/kon_462blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 461. Bölüm / 18.01.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/q/mM/kon_461blm/kon_461blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 460. Bölüm / 17.01.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/c/M1/kon_460blm_rev/kon_460blm_rev.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pazar Gezmesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6943c72f4c5d448b7df6ba12.jpg",Pazar Gezmesi - Pazar Gezmesi 10. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/v/Sg/pazargezmesi_bol10/pazargezmesi_bol10.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pazar Gezmesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6943c72f4c5d448b7df6ba12.jpg",Pazar Gezmesi - Pazar Gezmesi 9. Bölüm
@@ -2641,8 +2641,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/386182_487d/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/385405_4267/index.m3u8
 #EXTINF:-1 group-title="Yıldız De Bana" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6422e9723ab1663498c2a58c.jpg",Yıldız De Bana - Yıldız De Bana İlk Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/383881_367b/index.m3u8
-#EXTINF:-1 group-title="Afara" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6259339c933ccb0438530aa5.jpg",Afara - Afara Sezon Finali
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/357326_0f8d/index.m3u8
 #EXTINF:-1 group-title="Afara" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6259339c933ccb0438530aa5.jpg",Afara - Afara 8. Bölüm / 03.06.2022
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/356623_0a0d/index.m3u8
 #EXTINF:-1 group-title="Afara" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6259339c933ccb0438530aa5.jpg",Afara - Afara 7. Bölüm / 27.05.2022
