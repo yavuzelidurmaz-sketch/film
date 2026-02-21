@@ -18,7 +18,7 @@ jobs:
 
       - name: Yayini Aktar (Sifir Ses Kaymasi - Tam Kopya Modu)
         run: |
-          M3U8_LINK="http://barboplay.shop:8080/live/ceysud/x4pK867Hyq/35650.m3u8"
+          M3U8_LINK="http://barboplay.shop:8080/live/ceysud/x4pK867Hyq/35650.ts"
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
           
           echo "Yayin Telegram'a basliyor..."
