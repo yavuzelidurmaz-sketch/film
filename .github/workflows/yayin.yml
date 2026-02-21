@@ -1,4 +1,4 @@
-name: Kesintisiz Telegram Yayini
+name: Zirhli Kesintisiz Yayin
 on:
   workflow_dispatch:
   schedule:
@@ -11,27 +11,28 @@ jobs:
   stream:
     runs-on: ubuntu-latest
     steps:
-      - name: Sistemi Hazirla ve FFmpeg Kur
+      - name: FFmpeg Kurulumu
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
       - name: Yayini Telegram'a Aktar (5.5 Saatlik Zirhli Dongu)
         run: |
-          # Orijinal link ve Telegram RTMP anahtarin
-          M3U8_LINK="https://zeustv32321.info/live/b1/playlist.m3u8"
+          # Orijinal yayin linkin
+          M3U8_LINK="https://ngolokante3169.saplargecer.online/601/index.m3u8"
+          
+          # Ilettigin Telegram Sunucu Linki ve Yayin Anahtarinin Birlestirilmis Hali:
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
           
           echo "Yayin Telegram'a basliyor... Kopmalara karsi zirhli komut devrede."
           
           # timeout 330m: Sistemi 5.5 saat sonra güvenlice durdurur
           # -headers "Referer...": Sitenin engellemesini asar
-          # -reconnect...: Saliselik kopmalarda pes etmeden tekrar baglanmayi dener
           timeout 330m ffmpeg -headers "Referer: https://ngolokante3169.saplargecer.online/" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -i "$M3U8_LINK" -c:v copy -c:a aac -b:a 128k -ar 44100 -f flv -flvflags no_duration_filesize "$RTMP" || true
 
-      - name: Sistemi Yeniden Tetikle (Sonsuz Dongu)
+      - name: Sistemi Yeniden Tetikle (Otomatik Dongu)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Sure doldu veya kaynak koptu! Yeni dongu baslatiliyor..."
-          gh workflow run "Kesintisiz Telegram Yayini" --repo ${{ github.repository }} || true
+          echo "Sure doldu veya kaynak koptu! Yeni yayin dongusu baslatiliyor..."
+          gh workflow run "Zirhli Kesintisiz Yayin" --repo ${{ github.repository }} || true
