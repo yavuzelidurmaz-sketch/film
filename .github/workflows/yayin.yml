@@ -16,7 +16,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Yayini Aktar (Tam Kamuflajli Dongu)
+      - name: Yayini Aktar (Tam Kamuflaj ve Ses Senkronu)
         run: |
           M3U8_LINK="https://zeustv32321.info/live/b1/playlist.m3u8"
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
@@ -25,13 +25,13 @@ jobs:
           END_TIME=$((SECONDS+19800))
           
           while [ $SECONDS -lt $END_TIME ]; do
-              echo "FFmpeg devrede..."
+              echo "FFmpeg devrede... Ses senkronizasyon ayarlari aktif!"
               
-              # DEĞİŞİKLİKLER:
-              # -re eklendi (Sistemi bot sanip 30 saniyede banlamamasi icin insan hizinda ceker)
-              # Extra Headers (Origin, Accept) eklendi tam bir tarayici taklidi yapar.
+              # YENİLİKLER: 
+              # -fflags +genpts : Zaman damgalarini (PTS) onarir.
+              # -af "aresample=async=1" : Sesi videoya milisaniyelik hizalar.
               
-              ffmpeg -re -headers "Origin: https://zeustv32321.info" -headers "Referer: https://zeustv32321.info/" -headers "Accept: */*" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -i "$M3U8_LINK" -c:v copy -c:a aac -b:a 128k -ar 44100 -f flv -flvflags no_duration_filesize "$RTMP" || true
+              ffmpeg -re -fflags +genpts -headers "Origin: https://zeustv32321.info" -headers "Referer: https://zeustv32321.info/" -headers "Accept: */*" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -i "$M3U8_LINK" -c:v copy -c:a aac -af "aresample=async=1" -b:a 128k -ar 44100 -f flv -flvflags no_duration_filesize "$RTMP" || true
               
               echo "Baglanti koptu! 3 saniye icinde tekrar baslatiliyor..."
               sleep 3
