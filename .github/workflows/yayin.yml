@@ -16,7 +16,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Yayini Aktar (Keep-Alive Destekli Saf TS)
+      - name: Yayini Aktar (Sifir Gecikme Modu)
         run: |
           M3U8_LINK="http://plan9.store:80/play/live.php?mac=00:1a:79:59:82:b1&stream=10698&extension=ts&play_token=5gczPXtSqM"
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
@@ -25,11 +25,10 @@ jobs:
           END_TIME=$((SECONDS+19800))
           
           while [ $SECONDS -lt $END_TIME ]; do
-              echo "FFmpeg devrede... Keep-Alive aktif, mikro kopmalar engelleniyor!"
+              echo "FFmpeg devrede... Sifir Gecikme (Zero Buffer) aktif!"
               
-              # -re KALDIRILDI.
-              # -headers "Connection: keep-alive" EKLENDİ.
-              ffmpeg -headers "Connection: keep-alive" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -i "$M3U8_LINK" -c copy -f flv -flvflags no_duration_filesize "$RTMP" || true
+              # YENİLİKLER: -fflags nobuffer ve -flags low_delay eklendi.
+              ffmpeg -fflags nobuffer -flags low_delay -headers "Connection: keep-alive" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -i "$M3U8_LINK" -c copy -f flv -flvflags no_duration_filesize "$RTMP" || true
               
               echo "Baglanti tamamen koptu! 3 saniye icinde tekrar baslatiliyor..."
               sleep 3
