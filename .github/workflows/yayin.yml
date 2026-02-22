@@ -1,4 +1,4 @@
-name: Akilli Kesintisiz Yayin
+name: MAC Panel Kesintisiz Yayin
 on:
   workflow_dispatch:
   schedule:
@@ -16,28 +16,20 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Yayini Aktar (Otomatik Engel Asici)
+      - name: Yayini Aktar (Saf TS Linki)
         run: |
-          # YENI TAM LINKINI BURAYA YAPISTIR (Sadece ana siteyi degil, m3u8 ile biten tam linki yazmalisin)
-          M3U8_LINK="https://ngolokante3169.saplargecer.online/601HD/index.m3u8"
+          # Token barindiran en saglam TS linkin
+          M3U8_LINK="http://plan9.store:80/play/live.php?mac=00:1a:79:59:82:b1&stream=10698&extension=ts&play_token=5gczPXtSqM"
           RTMP="rtmps://dc4-1.rtmp.t.me/s/3701970960:0jSLVLkjAiuVx6F6kI_rhQ"
           
-          # SISTEMIN AKILLI KISMI: Linkten ana siteyi otomatik çeker (Örn: https://live.zeustv.workers.dev)
-          DOMAIN=$(echo "$M3U8_LINK" | awk -F/ '{print $1"//"$3}')
-          
           echo "Yayin Telegram'a basliyor..."
-          echo "Otomatik Algilanan Sahte Kimlik (Referer): $DOMAIN"
-          
           END_TIME=$((SECONDS+19800))
           
           while [ $SECONDS -lt $END_TIME ]; do
-              echo "FFmpeg devrede... JPG hilesi kirici ve akilli kimlik aktif!"
+              echo "FFmpeg devrede... Saf TS formati aktariliyor!"
               
-              # -headers kısmına dikkat et, artık $DOMAIN değişkenini kullanarak otomatik uyum sağlıyor
-              # -f hls ile resim uzantılarını videoya çeviriyor
-              # -c copy ile ses kaymasını engelliyor
-              
-              ffmpeg -re -f hls -headers "Origin: $DOMAIN" -headers "Referer: $DOMAIN/" -headers "Accept: */*" -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -i "$M3U8_LINK" -c copy -f flv -flvflags no_duration_filesize "$RTMP" || true
+              # Karmasik hile kiricilara gerek kalmadi, en saf kopyalama komutu:
+              ffmpeg -re -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 5 -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -i "$M3U8_LINK" -c copy -f flv -flvflags no_duration_filesize "$RTMP" || true
               
               echo "Baglanti koptu! 3 saniye icinde tekrar baslatiliyor..."
               sleep 3
@@ -48,4 +40,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Sure doldu! Sistem yenileniyor..."
-          gh workflow run "Akilli Kesintisiz Yayin" --repo ${{ github.repository }} || true
+          gh workflow run "MAC Panel Kesintisiz Yayin" --repo ${{ github.repository }} || true
