@@ -187,6 +187,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698c1be93754260b3ea63d04&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sahipsizler" tvg-logo="https://media.startv.com.tr/star-tv/images/sahipsizlerafis(2).jpg",Sahipsizler - 49. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6995606b3460ad999fb90b27&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sahipsizler" tvg-logo="https://media.startv.com.tr/star-tv/images/sahipsizlerafis(2).jpg",Sahipsizler - 50. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699ea3d9604a1fbc5d83e6cb&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yalı Çapkını" tvg-logo="https://media.startv.com.tr/star-tv/images/6c4b4ac44fca80e6864b876d.jpg",Yalı Çapkını - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90511&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yalı Çapkını" tvg-logo="https://media.startv.com.tr/star-tv/images/6c4b4ac44fca80e6864b876d.jpg",Yalı Çapkını - 2. Bölüm
@@ -1769,6 +1771,114 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82064&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 100. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82104&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 101. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82132&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 102. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82133&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 103. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82134&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 104. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82135&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 105. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82182&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 106. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82216&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 107. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82219&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 108. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82228&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 109. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82236&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 110. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82279&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 111. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82291&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 112. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82303&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 113. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82316&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 114. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82329&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 115. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82352&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 116. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82389&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 117. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82394&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 118. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82405&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 119. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82423&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 120. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82450&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 121. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82451&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 122. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82487&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 123. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82498&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 124. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82517&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 125. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82523&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 126. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82552&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 127. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82555&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 128. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82564&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 129. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82576&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 130. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82613&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 131. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82631&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 132. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82635&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 133. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82642&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 134. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82654&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 135. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82693&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 136. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82694&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 137. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82695&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 138. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82697&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 139. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82699&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 140. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82788&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 141. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82789&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 142. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82790&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 143. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82791&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 144. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82792&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 145. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82851&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 146. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82852&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 147. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82853&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 148. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82854&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 149. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82855&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 150. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82887&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 151. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82888&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 152. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82889&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 153. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82890&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevdim Seni Bir Kere" tvg-logo="https://media.startv.com.tr/star-tv/images/eff9e75846aa965650a704cd.jpg",Sevdim Seni Bir Kere - 154. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_82891&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://media.startv.com.tr/star-tv/images/795ec99443bbbc726e1bd75b.jpg",Çocuk - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_80224&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://media.startv.com.tr/star-tv/images/795ec99443bbbc726e1bd75b.jpg",Çocuk - 2. Bölüm
@@ -10677,6 +10787,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699c1b3d3460ad999fb911ca&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 357. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699d9587604a1fbc5d83e690&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Songül ve Uğur ile Sana Değer" tvg-logo="https://media.startv.com.tr/star-tv/images/sd_12421730.jpg",Songül ve Uğur ile Sana Değer - 358. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_699eeaf0604a1fbc5d83e703&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 242. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66e44146dc56cce6f915d3cf&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 243. Bölüm
