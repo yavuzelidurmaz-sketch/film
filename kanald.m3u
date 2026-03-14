@@ -79,6 +79,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/9/I0/it_44_bolum/it_
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/R/F5/it_43_bolumm/it_43_bolumm.smil/playlist.m3u8
 #EXTINF:-1 group-title="İnci Taneleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682cb28f2d741ef4ddb256bb.jpg",İnci Taneleri - İnci Taneleri 42. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/o/EQ/inci_42blm/inci_42blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 743. Bölüm
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/I/Xx/as_743blm/as_743blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 742. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/e/0z/as_742_bolum/as_742_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 741. Bölüm
@@ -97,8 +99,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/R/C8/as_736_bolum/as
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/M/Qc/as_735bolum/as_735bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 734. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/R/3d/as_734bolum/as_734bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 733. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/t/PW/as_733_bolum/as_733_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vatanım Sensin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f34a22d741ef4ddb25857.jpg",Vatanım Sensin - Vatanım Sensin Final Bölümü
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/218276_67da/index.m3u8
 #EXTINF:-1 group-title="Vatanım Sensin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f34a22d741ef4ddb25857.jpg",Vatanım Sensin - Vatanım Sensin 58. Bölüm
@@ -279,6 +279,8 @@ https://kanaldvod.duhnet.tv/S2/HLS_VOD/8048_8e73/index.m3u8
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/7380_9a32/index.m3u8
 #EXTINF:-1 group-title="Kuzey Güney" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f34f92d741ef4ddb2586b.jpg",Kuzey Güney - 72.Bölüm izle
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/7002_a09b/index.m3u8
+#EXTINF:-1 group-title="Bir Ramazan Akşamı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/698df15fb9280fd566ed11eb.jpg",Bir Ramazan Akşamı - Bir Ramazan Akşamı 23. Gün - 13.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/-/TU/bra_23blm_130326/bra_23blm_130326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bir Ramazan Akşamı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/698df15fb9280fd566ed11eb.jpg",Bir Ramazan Akşamı - Bir Ramazan Akşamı 22. Gün - 12.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/i/wT/bra_22blm_120326/bra_22blm_120326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bir Ramazan Akşamı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/698df15fb9280fd566ed11eb.jpg",Bir Ramazan Akşamı - Bir Ramazan Akşamı 21. Gün - 11.03.2026
@@ -297,8 +299,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/U/fr/bra_16_bolum/br
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/r/l7/bra_15_bolum/bra_15_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bir Ramazan Akşamı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/698df15fb9280fd566ed11eb.jpg",Bir Ramazan Akşamı - Bir Ramazan Akşamı 14. Gün - 04.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/3P/bra_14_bolum_rev/bra_14_bolum_rev.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bir Ramazan Akşamı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/698df15fb9280fd566ed11eb.jpg",Bir Ramazan Akşamı - Bir Ramazan Akşamı 13. Gün - 03.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/c/B2/bra_13bolum_0303/bra_13bolum_0303.smil/playlist.m3u8
 #EXTINF:-1 group-title="Beyaz'la Joker" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69679f1d4514ff3cabc3f24a.jpg",Beyaz'la Joker - Beyaz'la Joker 11. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/g/P2/bj_11_bolum/bj_11_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Beyaz'la Joker" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69679f1d4514ff3cabc3f24a.jpg",Beyaz'la Joker - Beyaz'la Joker 10. Bölüm
@@ -319,6 +319,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/9/XQ/bj_bol4/bj_bol4
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/p/pd/bj_3bolum/bj_3bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Beyaz'la Joker" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69679f1d4514ff3cabc3f24a.jpg",Beyaz'la Joker - Beyaz'la Joker 2. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/u/qI/bj_rev2blm/bj_rev2blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arda'nın Ramazan Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6242c96e445395144463f65a.jpg",Arda'nın Ramazan Mutfağı - Arda'nın Ramazan Mutfağı 222. Bölüm / 13 Mart 2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/t/90/arda_ramazan_14mart/arda_ramazan_14mart.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Ramazan Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6242c96e445395144463f65a.jpg",Arda'nın Ramazan Mutfağı - Arda'nın Ramazan Mutfağı 221. Bölüm / 12 Mart 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/y/8-/arda_ramazan_12mart_bolum/arda_ramazan_12mart_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Ramazan Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6242c96e445395144463f65a.jpg",Arda'nın Ramazan Mutfağı - Arda'nın Ramazan Mutfağı 220. Bölüm / 11 Mart 2026
@@ -337,10 +339,14 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/L/7t/ardaram_bol_060
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/5/un/ardamutfagi_bol15_2026/ardamutfagi_bol15_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Ramazan Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6242c96e445395144463f65a.jpg",Arda'nın Ramazan Mutfağı - Arda'nın Ramazan Mutfağı 213. Bölüm / 4 Mart 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/U/ge/ardaramazan_bol14_2026/ardaramazan_bol14_2026.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arda'nın Ramazan Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6242c96e445395144463f65a.jpg",Arda'nın Ramazan Mutfağı - Arda'nın Ramazan Mutfağı 212. Bölüm / 3 Mart 2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/-/vZ/ardaramazan_03032026_bolum/ardaramazan_03032026_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 13.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/O/nQ/sahurvakti24gun_2026/sahurvakti24gun_2026.smil/playlist.m3u8
+#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 12.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/F/bZ/sahurvakti_22_gunblm/sahurvakti_22_gunblm.smil/playlist.m3u8
+#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 11.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/_/Ba/sahurvakti_21gun_2026/sahurvakti_21gun_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 10.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/y/ha/sahurvakti_gun23_2026_bol/sahurvakti_gun23_2026_bol.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/D/fN/sahurvakti_gun20_2026/sahurvakti_gun20_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 09.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/KY/sahurvakti_19gun_2026/sahurvakti_19gun_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 08.03.2026
@@ -353,12 +359,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/Ck/sahur_16bolum/s
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/5/tt/sah_15blm/sah_15blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 04.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/M/MZ/sah_14blm/sah_14blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 03.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/6/mY/sah_13bolum/sah_13bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 02.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/kE/sah_12gun/sah_12gun.smil/playlist.m3u8
-#EXTINF:-1 group-title="M. Fatih Çıtlak ile Sahur Vakti" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/624d56b3ebc8302780fc4586.jpg",M. Fatih Çıtlak ile Sahur Vakti - M. Fatih Çıtlak ile Sahur Vakti - 01.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/L/gB/ftis_11_bolum/ftis_11_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1800. Bölüm / 13 Mart 2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/6/4y/gm_1800blm/gm_1800blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1799. Bölüm / 12 Mart 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/d/1B/gm_1799blm/gm_1799blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1798. Bölüm / 11 Mart 2026
@@ -377,8 +379,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/d/Ow/gm1793_rev/gm17
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/J/YZ/gm_1792blm/gm_1792blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1791. Bölüm / 2 Mart 2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/_/Eo/gm_1791_bolum/gm_1791_bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1790. Bölüm / 27 Şubat 2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/t/8t/gm1790/gm1790.smil/playlist.m3u8
+#EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 13.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/l/v-/noh_1512/noh_1512.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 12.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/F/LS/noh_1511_bolum/noh_1511_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 11.03.2026
@@ -397,8 +399,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/a/Nh/noh_1505blm/noh
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/y/l0/noh1504/noh1504.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 02.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Z/4E/noh1503/noh1503.smil/playlist.m3u8
-#EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 27.02.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/b/mH/noh_1502/noh_1502.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535cfe4453951504a95c64.jpg",Arda'nın Mutfağı - Arda'nın Mutfağı 275. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/r/mZ/arda_275_bolum/arda_275_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda'nın Mutfağı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535cfe4453951504a95c64.jpg",Arda'nın Mutfağı - Arda'nın Mutfağı 274. Bölüm
@@ -439,6 +439,8 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Q/N-/arom_239_bolum/
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/1/V-/arda_omuzomuza_238_bolum_logolu/arda_omuzomuza_238_bolum_logolu.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 237. Bölüm - Arif Pişkin
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/z/Cb/arom_237_bolum/arom_237_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 13.03.2026
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/Gf/anahaber_130326/anahaber_130326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 12.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/v/PJ/anahaber_120326/anahaber_120326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 11.03.2026
@@ -457,8 +459,6 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/S/II/anahaber_040320
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/Q/Pi/anahaber_030326/anahaber_030326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 02.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/g/cZ/anahaber_020326/anahaber_020326.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 27.02.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/B/9V/anahaber_270226/anahaber_270226.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 08.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/8/fB/anahaber_080326/anahaber_080326.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 07.03.2026
@@ -520,7 +520,7 @@ https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/i/Wx/mg_paz400blm/mg
 #EXTINF:-1 group-title="Magazin D Pazar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6872297eff79654e7d12b629.jpg",Magazin D Pazar - 28.12.2025 / Magazin D Pazar
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/f/43/magazindp_399/magazindp_399.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 475. Bölüm / 08.03.2026
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/r/W2/kon_475blm/kon_475blm.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/A/G9/kon_476blm/kon_476blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 474. Bölüm / 07.03.2026
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/D/ST/kon_474blm/kon_474blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 473. Bölüm / 01.03.2026
@@ -1125,240 +1125,56 @@ https://kanaldvod.duhnet.tv/S1/HLS_VOD/3470_1645/index.m3u8
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/a79c_1643/index.m3u8
 #EXTINF:-1 group-title="Aşk-ı Memnu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5d19e9dd4020112cf8a208b4.jpg",Aşk-ı Memnu - 70.Bölüm
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/c2ba_1720/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 174.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/8fda_201/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 173.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/3672_147/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 172.Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/hls/D/36/yaprak_dokumu172bolum/yaprak_dokumu172bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 171. Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5068_72bb/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 170.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5067_eaaf/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 169.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5066_d927/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 168.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5063_743e/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 167.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5119_ac48/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 166.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5064_60ed/index.m3u8
-#EXTINF:-1 group-title="Yaprak Dökümü" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5fd4d6cbebc830296c24f986.jpg",Yaprak Dökümü - 165.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5030_46e5/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 170.Bölüm - FİNAL
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/2706_2724/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 169.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/4f5c_2712/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 168.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/0bf5_2705/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 167.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/c663_2698/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 166.Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/319710_c4ee/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 165.Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/319709_c4ec/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 164.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/d6e1_2757/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 163.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/94de_2755/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 162. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/9b91_2736/index.m3u8
-#EXTINF:-1 group-title="Kavak Yelleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc8884687ed42a4b7f4e.jpg",Kavak Yelleri - 161.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/bcef_2729/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe Final Bölümü
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/390622_6b3f/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 10. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/389324_6119/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 9. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/388698_5c31/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 8. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/388052_5721/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 7. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/387304_5147/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 6. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/386633_4c05/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 5. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/385951_46af/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 4. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/385148_4065/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 3. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/384355_3a31/index.m3u8
-#EXTINF:-1 group-title="Kraliçe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/64074e404453952cac4c0bef.jpg",Kraliçe - Kraliçe 2. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/383572_340f/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 20. Bölüm - FİNAL
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/367629_600f/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 19. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/367085_5bcf/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 18. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/366464_56f5/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 17. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/365805_51cf/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 16. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/365322_4e09/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 15. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/364950_4b21/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 14. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/364155_44eb/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 13. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/363592_4085/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 12. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/362959_3b91/index.m3u8
-#EXTINF:-1 group-title="Seversin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/627cd36ae22601084cbce13d.jpg",Seversin - Seversin 11. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/362333_36ad/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 29. Bölüm - FİNAL
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/145822_9bfd/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 28. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/144856_b705/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 27. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/144137_63ef/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 26. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/143334_9f0b/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 25. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/142518_5312/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 24. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/141780_b430/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 23. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/140564_f326/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 22. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/139847_5cbe/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 21. Bölüm
-https://kanaldvod.duhnet.tv/S9/HLS_VOD/139009_acb0/index.m3u8
-#EXTINF:-1 group-title="Adı Efsane" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5957a30b4020111194fb293e.jpg",Adı Efsane - Adı Efsane 20. Bölüm
-https://kanaldvod.duhnet.tv/S9/HLS_VOD/136106_21c4/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - Son Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/62633_e7cd/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 55.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/62019_229a/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 54. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/61434_8ae2/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 53.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/60893_a771/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 52.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/60336_e398/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 51. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/59225_bb91/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 50.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/58689_3db7/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 49.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/58085_5dda/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 48.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/57438_86b0/index.m3u8
-#EXTINF:-1 group-title="Galip Derviş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d5b484687ed42a4b7f10.jpg",Galip Derviş - 47.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/56878_7649/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 68. Bölüm - Final
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/91403_9953/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 66. Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/90276_a9fc/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 65. Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/89780_3173/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 64. Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/89221_4779/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 63. Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/88422_cecf/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 62. Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/87952_720e/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 61. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/87435_77b9/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 60. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/86919_84d9/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 59. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/86368_fb5a/index.m3u8
-#EXTINF:-1 group-title="Güllerin Savaşı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/55e5759bae784931d0095b2c.jpg",Güllerin Savaşı - Güllerin Savaşı 58. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/85976_3f6f/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 27. Bölüm - Final
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/161056_7029/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 26. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/160208_402d/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 25. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/159451_f326/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 24. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/158562_ecec/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 23. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/157670_0073/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 22. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/156331_2755/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 21. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/155435_0a96/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 20. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/154056_a9bb/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 19. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/153064_fdb5/index.m3u8
-#EXTINF:-1 group-title="İsimsizler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59a7b18e04207c14b05bd3c9.jpg",İsimsizler - İsimsizler 18. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/151461_90af/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu Son Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/332291_2b39/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 16. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/331461_24bb/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 15. Bölüm
-https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VODY/330667_1e87/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 14. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/329836_1805/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 13. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/328997_1175/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 12. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/328253_0ba1/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 11. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/327513_05d7/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 10. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/326815_0063/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 9. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/326227_fbcb/index.m3u8
-#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 8. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/325708_f7bb/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 9. Bölüm - FİNAL
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/298285_1d7c/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 8. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/297670_18ae/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 7. Bölüm
-https://kanaldvod.duhnet.tv/S12/HLS_VOD/297005_137c/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 6. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/296376_0e92/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 5. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/295742_099e/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 4. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/295096_0492/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 3. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/294468_ffaa/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 2. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/293934_fb7d/index.m3u8
-#EXTINF:-1 group-title="Yeni Hayat" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5e62540ee2260102944aa028.jpg",Yeni Hayat - Yeni Hayat 1. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/293261_f638/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 8. Bölüm - Final
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/216378_5906/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 7. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/215655_5360/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 6. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/214837_4cfa/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 5. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/214099_4736/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 4. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/213296_40f0/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 3. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/212446_3a4c/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 2. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/211659_3424/index.m3u8
-#EXTINF:-1 group-title="İnsanlık Suçu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5af2e1666ce43626b4ca3d69.jpg",İnsanlık Suçu - İnsanlık Suçu 1. Bölüm
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/210807_2d7c/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem Final Bölümü
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/206844_0e86/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 29. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/205975_07bc/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 28. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/205134_012a/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 27. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/204262_fa5a/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 26. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/203445_cff2/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 25. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/202646_c9b4/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 24. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/201828_c350/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 23. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/200949_bc72/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 22. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/162287_3399/index.m3u8
-#EXTINF:-1 group-title="Meryem" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ee6284687ed42a4b7fc8.jpg",Meryem - Meryem 21. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/161483_71fb/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 34. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306286_5c04/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 33. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306287_5c06/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 32. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306075_5a5e/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 31. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306073_5a5a/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 30. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306072_5a58/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 29. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306076_5a60/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 28. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306077_5a62/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 27. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306066_5a4c/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 26. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306067_5a4e/index.m3u8
+#EXTINF:-1 group-title="Acemi Cadı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/600155b9e226012d100358b6.jpg",Acemi Cadı - Acemi Cadı 25. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/306068_5a50/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 30.Bölüm FİNAL
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/44298_9896/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 29.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/43649_a95f/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 28.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/42844_8d5e/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 27.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/42199_507a/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 26.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/41273_204d/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 25.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/40465_57fe/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 24.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/39657_ca64/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 23.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/38652_d0ab/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 22.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36821_e9e6/index.m3u8
+#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 21.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36000_f4f9/index.m3u8
+#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 5. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58680_2209/index.m3u8
+#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 4. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58081_fb3f/index.m3u8
+#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 3. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/57556_8a2c/index.m3u8
+#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 2. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/56874_23b7/index.m3u8
+#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 1. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/56125_cca5/index.m3u8
 #EXTINF:-1 group-title="Güneşi Beklerken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5eeb7755ebc8302cd4ece153.jpg",Güneşi Beklerken - 4. Bölüm
 https://kanaldvod.duhnet.tv/https://kanaldvod.duhnet.tv/S12/HLS_VOD/383491_336d/index.m3u8
 #EXTINF:-1 group-title="Güneşi Beklerken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5eeb7755ebc8302cd4ece153.jpg",Güneşi Beklerken - 54. Bölüm -FİNAL
@@ -1379,44 +1195,318 @@ https://kanaldvod.duhnet.tv/S7/HLS_VOD/46321_09b3/index.m3u8
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/45749_caeb/index.m3u8
 #EXTINF:-1 group-title="Güneşi Beklerken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5eeb7755ebc8302cd4ece153.jpg",Güneşi Beklerken - 46.Bölüm
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/44938_70d1/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 26.Bölüm-FİNAL
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5551_186f/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 25.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/5136_3bb5/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 24.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/4849_d22d/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 23.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/4148_ca10/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 22.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/1507_3886/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 21.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/1703_3595/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 20.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/ad29_3311/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 19.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/e3a9_3003/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 18.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/47b2_2752/index.m3u8
-#EXTINF:-1 group-title="Kayıp Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7aa2df16fd9b22c55aac7.jpg",Kayıp Şehir - 17.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/471d_2389/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 9. Bölüm - Final
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/156674_3df9/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 8. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/155769_b275/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 7. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/154398_50dd/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 6. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/153364_8d90/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 5. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/152480_992c/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 4. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/151596_d3ec/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 3. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/150760_da8d/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak 2. Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/149808_608e/index.m3u8
-#EXTINF:-1 group-title="Tutsak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59bfd1c6ac1fe3237c43a701.jpg",Tutsak - Tutsak İlk Bölüm
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/149164_1640/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 44.Bölüm - Final
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/34425_1201/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 43.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/33475_1fb8/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 42.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/32495_39f3/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 41.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/31610_bc77/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 40.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30774_6700/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 39.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/29981_1a7a/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 38.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28910_0eed/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 37.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27732_ba36/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 36.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/25442_b34f/index.m3u8
+#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 35.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24607_319a/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 54.Bölüm izle
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/4300_fefa/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 53.Bölüm izle
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/3995_1aaa/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 52.Bölüm izle
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/a154_3778/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 51.Bölüm izle
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/a154_3778/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 50.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/0d8d_3185/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 49.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/fda5_2921/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 48.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7380_1607/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 47.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/47f6_1238/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 46.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7c38_1020/index.m3u8
+#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 45.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/afb0_737/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 8. Bölüm FİNAL!
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58208_7f8d/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 7. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/57235_6e98/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 6.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/56479_f030/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 5.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/55533_0639/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 4.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/54874_a972/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 3.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/54268_90b5/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 2. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/53686_9531/index.m3u8
+#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 1.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/53279_54b0/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 18.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7aef_142/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 17.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7528_139/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 16.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/89a7_951/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 15.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/c9ef_938/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 14.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/6725_931/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 12.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/68c9_925/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 11.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/4cd2_746/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 9.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/d4ea_741/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 10.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/e4b2_744/index.m3u8
+#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 8.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/3f94_738/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 44.Bölüm-FİNAL
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36983_f2ab/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 43.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36116_335c/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 42.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/35167_1015/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 41.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/34264_3245/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 40.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/33306_72d9/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 39.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/32344_d61c/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 38.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/31494_dea4/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 37.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30596_45d8/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 36.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/29833_2526/index.m3u8
+#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 35.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28712_c0c7/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 8.Bölüm-FİNAL
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/4239_126/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 7.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/cd07_753/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 6.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/9c9f_570/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 5.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/050c_571/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 4.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/fd38_572/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 3.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/3a55_575/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 2.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/606a_576/index.m3u8
+#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 1. Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/6b01_582/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 13.Bölüm (Final)
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/14590_6c71/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 12.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/14090_df89/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 11.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13580_c750/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 10.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/13223_96e3/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 9.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12916_47c5/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 8.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12558_54ae/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 7.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12387_2a87/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 6.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12294_bc63/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 5.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/12089_5b94/index.m3u8
+#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 4.Bölüm
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/11751_a065/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 16.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/48371_e705/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 15.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/47804_b330/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 14.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/47165_c12a/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 13.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/46648_4513/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 12.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/46071_028c/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 11.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/45391_e9ce/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 10.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/44630_d802/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 9.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/43379_67e7/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 8.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/42582_8eb8/index.m3u8
+#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 7.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/41885_860a/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 7.Bölüm-FİNAL
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/40681_1813/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 6.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/40068_7215/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 5.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/38905_515e/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 4.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/38040_4362/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 3.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/37135_e973/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 2.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36293_fd30/index.m3u8
+#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 1.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/35334_850e/index.m3u8
+#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 4.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/36677_620f/index.m3u8
+#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 2.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/34882_99f7/index.m3u8
+#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 3.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/33950_b06b/index.m3u8
+#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 1.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/33950_b06b/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 7.Bölüm (Final)
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/39519_e18d/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 6.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/38792_eb82/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 5.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/37908_3b01/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 4.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/35168_6b15/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 3.Bölüm
+https://kanaldvod.duhnet.tv/S7/HLS_VOD/34263_9a5e/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 2.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/33307_9cff/index.m3u8
+#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 1.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/32346_794a/index.m3u8
+#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 4.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/53017_1067/index.m3u8
+#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 3.Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/52535_1639/index.m3u8
+#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 2. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/52006_f535/index.m3u8
+#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 1. Bölüm
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/51440_a862/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 13.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27332_f033/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 12.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/26222_0797/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 11.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24920_6f4a/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 10.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21774_de7a/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 9.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20334_66c7/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 8.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/19628_716d/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 7.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/18612_e890/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 6.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17779_e645/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 5.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/17120_01b7/index.m3u8
+#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 4.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/16664_5047/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 18.Bölüm (Final)
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/31190_b06b/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 17.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30346_9e07/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 16.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/29396_9e07/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 15.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28707_9e07/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 14.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/25863_66f5/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 13.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24899_b33e/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 12.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21787_6ba9/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 11.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/20918_475a/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 10.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20089_bed7/index.m3u8
+#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 9.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/19104_c13e/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 20.Bölüm izle
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/152332_ceec/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 19.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/0986_123/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 18.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/e353_197/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 17.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/dd9c_270/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 16.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/b474_486/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 15. Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/cc08_492/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 14.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/600f_266/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 13.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/ac58_481/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 12.Bölüm izle
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/c319_483/index.m3u8
+#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 11.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/6e27_263/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 7.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30093_514b/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 6.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28713_c7ba/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 5.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27587_f033/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 4.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/26171_5f7b/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 3.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/25324_bcab/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 2.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24306_951f/index.m3u8
+#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 1.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21184_8c3a/index.m3u8
+#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 5.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/32813_9286/index.m3u8
+#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 4.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/31871_2ec2/index.m3u8
+#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 3.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/30460_9374/index.m3u8
+#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 2.Bölüm
+https://kanaldvod.duhnet.tv/S5/HLS_VOD/29647_c76d/index.m3u8
+#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 1.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28984_9e07/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 6.Bölüm-FİNAL
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/28909_439c/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 5.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/27731_9e5f/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 4.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/26324_4bc4/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 3.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/24525_951f/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 2.Bölüm
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/21362_d051/index.m3u8
+#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 1.Bölüm
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20499_fc1a/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 18.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7c1d_134/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 17.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/1ba9_146/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 16.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/0b74_175/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 15.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/4686_174/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 14.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/1180_173/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 13.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7dec_177/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 12.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/7ce0_180/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 11. Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/ffa6_730/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 10.Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/cd1c_728/index.m3u8
+#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 9. Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/9adf_726/index.m3u8
 #EXTINF:-1 group-title="Babam ve Ailesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57b6063b04207c37f0f0bfd3.jpg",Babam ve Ailesi - Babam ve Ailesi Final Bölümü
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/112124_fd12/index.m3u8
 #EXTINF:-1 group-title="Babam ve Ailesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57b6063b04207c37f0f0bfd3.jpg",Babam ve Ailesi - Babam ve Ailesi 12. Bölüm
@@ -1453,8 +1543,12 @@ https://kanaldvod.duhnet.tv/S9/HLS_VOD/106149_d4b7/index.m3u8
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/105752_f5ac/index.m3u8
 #EXTINF:-1 group-title="Tatlı İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57ee6120402011aa14619cb5.jpg",Tatlı İntikam - Tatlı İntikam 23. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/105349_9050/index.m3u8
+#EXTINF:-1 group-title="Tatlı İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57ee6120402011aa14619cb5.jpg",Tatlı İntikam - Tatlı İntikam 22. Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/104921_4aac/index.m3u8
 #EXTINF:-1 group-title="Tatlı İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/57ee6120402011aa14619cb5.jpg",Tatlı İntikam - Tatlı İntikam 21. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/104364_abe6/index.m3u8
+#EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı Final Bölümü
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/146154_9434/index.m3u8
 #EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı 8. Bölüm
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/145677_d30f/index.m3u8
 #EXTINF:-1 group-title="İki Yalancı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/59672d744020111f38531422.jpg",İki Yalancı - İki Yalancı 7. Bölüm
@@ -1637,38 +1731,12 @@ https://kanaldvod.duhnet.tv/S9/HLS_VOD/131087_3ab5/index.m3u8
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/130189_0e9f/index.m3u8
 #EXTINF:-1 group-title="Bodrum Masalı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/595b5baca781b608c80051a5.jpg",Bodrum Masalı - Bodrum Masalı 31. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/128437_649e/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 18.Bölüm (Final)
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/31190_b06b/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 17.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/30346_9e07/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 16.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/29396_9e07/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 15.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28707_9e07/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 14.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/25863_66f5/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 13.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/24899_b33e/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 12.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/21787_6ba9/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 11.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/20918_475a/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 10.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/20089_bed7/index.m3u8
-#EXTINF:-1 group-title="Kayıp" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/65a7a98ef16fd9b22c55aabb.jpg",Kayıp - 9.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/19104_c13e/index.m3u8
-#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 5. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/58680_2209/index.m3u8
-#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 4. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/58081_fb3f/index.m3u8
-#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 3. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/57556_8a2c/index.m3u8
-#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 2. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/56874_23b7/index.m3u8
-#EXTINF:-1 group-title="Urfalıyam Ezelden" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de87c15230f6fc7d0a51bf.jpg",Urfalıyam Ezelden - 1. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/56125_cca5/index.m3u8
+#EXTINF:-1 group-title="Mehmed Bir Cihan Fatihi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a95c3b0f0dc1e2f74337292.jpg",Mehmed Bir Cihan Fatihi - Mehmed Bir Cihan Fatihi Final Bölümü
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/214315_48e6/index.m3u8
 #EXTINF:-1 group-title="Mehmed Bir Cihan Fatihi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a95c3b0f0dc1e2f74337292.jpg",Mehmed Bir Cihan Fatihi - Mehmed Bir Cihan Fatihi 5. Bölüm
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/212781_3cea/index.m3u8
+#EXTINF:-1 group-title="Mehmed Bir Cihan Fatihi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a95c3b0f0dc1e2f74337292.jpg",Mehmed Bir Cihan Fatihi - Mehmed Bir Cihan Fatihi 4. Bölüm
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/211955_3674/index.m3u8
 #EXTINF:-1 group-title="Mehmed Bir Cihan Fatihi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a95c3b0f0dc1e2f74337292.jpg",Mehmed Bir Cihan Fatihi - Mehmed Bir Cihan Fatihi 3. Bölüm
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/211138_3012/index.m3u8
 #EXTINF:-1 group-title="Mehmed Bir Cihan Fatihi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a95c3b0f0dc1e2f74337292.jpg",Mehmed Bir Cihan Fatihi - Mehmed Bir Cihan Fatihi 2. Bölüm
@@ -1691,6 +1759,8 @@ https://kanaldvod.duhnet.tv/S9/HLS_VOD/103411_cf33/index.m3u8
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/103014_8533/index.m3u8
 #EXTINF:-1 group-title="Hayatımın Aşkı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5720c6e7565934530c04d135.jpg",Hayatımın Aşkı - Hayatımın Aşkı 10. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/102650_126f/index.m3u8
+#EXTINF:-1 group-title="Hayatımın Aşkı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5720c6e7565934530c04d135.jpg",Hayatımın Aşkı - Hayatımın Aşkı 9. Bölüm
+https://kanaldvod.duhnet.tv/S9/HLS_VOD/102260_2188/index.m3u8
 #EXTINF:-1 group-title="Hayatımın Aşkı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5720c6e7565934530c04d135.jpg",Hayatımın Aşkı - Hayatımın Aşkı 8. Bölüm
 https://kanaldvod.duhnet.tv/S9/HLS_VOD/101569_8220/index.m3u8
 #EXTINF:-1 group-title="Hayat Mucizelere Gebe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/565daff749678306ccbbcbb0.jpg",Hayat Mucizelere Gebe - Hayat Mucizelere Gebe Final Bölümü
@@ -1943,116 +2013,12 @@ https://kanaldvod.duhnet.tv/S8/HLS_VOD/55175_c522/index.m3u8
 https://kanaldvod.duhnet.tv/S8/HLS_VOD/54545_3090/index.m3u8
 #EXTINF:-1 group-title="Bana Artık Hicran De" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348dbc84687ed42a4b7d38.jpg",Bana Artık Hicran De - 1. Bölüm
 https://kanaldvod.duhnet.tv/S8/HLS_VOD/53902_f693/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 8. Bölüm FİNAL!
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/58208_7f8d/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 7. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/57235_6e98/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 6.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/56479_f030/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 5.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/55533_0639/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 4.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/54874_a972/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 3.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/54268_90b5/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 2. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/53686_9531/index.m3u8
-#EXTINF:-1 group-title="Benim Adım Gültepe" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348f2584687ed42a4b7d40.jpg",Benim Adım Gültepe - 1.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/53279_54b0/index.m3u8
-#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 4.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/53017_1067/index.m3u8
-#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 3.Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/52535_1639/index.m3u8
-#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 2. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/52006_f535/index.m3u8
-#EXTINF:-1 group-title="Anasının Oğlu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85a65230f6fc7d0a51a3.jpg",Anasının Oğlu - 1. Bölüm
-https://kanaldvod.duhnet.tv/S8/HLS_VOD/51440_a862/index.m3u8
 #EXTINF:-1 group-title="Paşa Gönlüm" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ed3884687ed42a4b7fc0.jpg",Paşa Gönlüm - 3.Bölüm
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/43497_f897/index.m3u8
 #EXTINF:-1 group-title="Paşa Gönlüm" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ed3884687ed42a4b7fc0.jpg",Paşa Gönlüm - 2.Bölüm
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/42655_31c4/index.m3u8
 #EXTINF:-1 group-title="Paşa Gönlüm" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834ed3884687ed42a4b7fc0.jpg",Paşa Gönlüm - 1.Bölüm
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/42017_63ec/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 16.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/48371_e705/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 15.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/47804_b330/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 14.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/47165_c12a/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 13.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/46648_4513/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 12.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/46071_028c/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 11.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/45391_e9ce/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 10.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/44630_d802/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 9.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/43379_67e7/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 8.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/42582_8eb8/index.m3u8
-#EXTINF:-1 group-title="Ankara'nın Dikmen'i" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85dc5230f6fc7d0a51a6.jpg",Ankara'nın Dikmen'i - 7.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/41885_860a/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 7.Bölüm-FİNAL
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/40681_1813/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 6.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/40068_7215/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 5.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/38905_515e/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 4.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/38040_4362/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 3.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/37135_e973/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 2.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36293_fd30/index.m3u8
-#EXTINF:-1 group-title="Boynu Bükükler" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d21084687ed42a4b7eda.jpg",Boynu Bükükler - 1.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/35334_850e/index.m3u8
-#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 4.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36677_620f/index.m3u8
-#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 2.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/34882_99f7/index.m3u8
-#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 3.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/33950_b06b/index.m3u8
-#EXTINF:-1 group-title="Ne Diyosuun" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834edbd84687ed42a4b7fc3.jpg",Ne Diyosuun - 1.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/33950_b06b/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 7.Bölüm (Final)
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/39519_e18d/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 6.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/38792_eb82/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 5.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/37908_3b01/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 4.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/35168_6b15/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 3.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/34263_9a5e/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 2.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/33307_9cff/index.m3u8
-#EXTINF:-1 group-title="Zeytin Tepesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e79984687ed42a4b7f8b.jpg",Zeytin Tepesi - 1.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/32346_794a/index.m3u8
-#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 5.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/32813_9286/index.m3u8
-#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 4.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/31871_2ec2/index.m3u8
-#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 3.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/30460_9374/index.m3u8
-#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 2.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/29647_c76d/index.m3u8
-#EXTINF:-1 group-title="Cinayet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d30484687ed42a4b7ee1.jpg",Cinayet - 1.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28984_9e07/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 7.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/30093_514b/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 6.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28713_c7ba/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 5.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/27587_f033/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 4.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/26171_5f7b/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 3.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/25324_bcab/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 2.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/24306_951f/index.m3u8
-#EXTINF:-1 group-title="Vicdan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e91f84687ed42a4b7f99.jpg",Vicdan - 1.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/21184_8c3a/index.m3u8
 #EXTINF:-1 group-title="Yalan Dünya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/546ca126f6309914d4a68967.jpg",Yalan Dünya - 90. Bölüm
 https://kanaldvod.duhnet.tv/S8/HLS_VOD/59506_ec36/index.m3u8
 #EXTINF:-1 group-title="Yalan Dünya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/546ca126f6309914d4a68967.jpg",Yalan Dünya - 89. Bölüm
@@ -2073,136 +2039,6 @@ https://kanaldvod.duhnet.tv/S7/HLS_VOD/42808_204d/index.m3u8
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/42155_8161/index.m3u8
 #EXTINF:-1 group-title="Yalan Dünya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/546ca126f6309914d4a68967.jpg",Yalan Dünya - 81.Bölüm
 https://kanaldvod.duhnet.tv/S7/HLS_VOD/41408_204d/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 44.Bölüm-FİNAL
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36983_f2ab/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 43.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36116_335c/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 42.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/35167_1015/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 41.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/34264_3245/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 40.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/33306_72d9/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 39.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/32344_d61c/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 38.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/31494_dea4/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 37.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/30596_45d8/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 36.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/29833_2526/index.m3u8
-#EXTINF:-1 group-title="Merhamet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465e9bccf45af133875aafb.jpg",Merhamet - 35.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28712_c0c7/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 44.Bölüm - Final
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/34425_1201/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 43.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/33475_1fb8/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 42.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/32495_39f3/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 41.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/31610_bc77/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 40.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/30774_6700/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 39.Bölüm
-https://kanaldvod.duhnet.tv/S5/HLS_VOD/29981_1a7a/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 38.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28910_0eed/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 37.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/27732_ba36/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 36.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/25442_b34f/index.m3u8
-#EXTINF:-1 group-title="İntikam" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e15f84687ed42a4b7f6b.jpg",İntikam - 35.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/24607_319a/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 6.Bölüm-FİNAL
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/28909_439c/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 5.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/27731_9e5f/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 4.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/26324_4bc4/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 3.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/24525_951f/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 2.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/21362_d051/index.m3u8
-#EXTINF:-1 group-title="İnadına Yaşamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835557c7b716da194a9fe7c.jpg",İnadına Yaşamak - 1.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/20499_fc1a/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 30.Bölüm FİNAL
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/44298_9896/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 29.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/43649_a95f/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 28.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/42844_8d5e/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 27.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/42199_507a/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 26.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/41273_204d/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 25.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/40465_57fe/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 24.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/39657_ca64/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 23.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/38652_d0ab/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 22.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36821_e9e6/index.m3u8
-#EXTINF:-1 group-title="Çalıkuşu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de880b5230f6fc7d0a51c5.jpg",Çalıkuşu - 21.Bölüm
-https://kanaldvod.duhnet.tv/S7/HLS_VOD/36000_f4f9/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 13.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/27332_f033/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 12.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/26222_0797/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 11.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/24920_6f4a/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 10.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/21774_de7a/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 9.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/20334_66c7/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 8.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/19628_716d/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 7.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/18612_e890/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 6.Bölüm
-https://kanaldvod.duhnet.tv/S4/HLS_VOD/17779_e645/index.m3u8
-#EXTINF:-1 group-title="Aşk" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de85fd5230f6fc7d0a51a9.jpg",Aşk - 4.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/16664_5047/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 13.Bölüm (Final)
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/14590_6c71/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 12.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/14090_df89/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 11.Bölüm
-https://kanaldvod.duhnet.tv/S3/HLS_VOD/13580_c750/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 10.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/13223_96e3/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 9.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/12916_47c5/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 8.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/12558_54ae/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 7.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/12387_2a87/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 6.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/12294_bc63/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 5.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/12089_5b94/index.m3u8
-#EXTINF:-1 group-title="Güzel Çirkin" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68de86ab5230f6fc7d0a51b2.jpg",Güzel Çirkin - 4.Bölüm
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11751_a065/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 54.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/4300_fefa/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 53.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/3995_1aaa/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 52.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/a154_3778/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 51.Bölüm izle
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/a154_3778/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 50.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/0d8d_3185/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 49.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/fda5_2921/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 48.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7380_1607/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 47.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/47f6_1238/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 46.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7c38_1020/index.m3u8
-#EXTINF:-1 group-title="Umutsuz Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e99d84687ed42a4b7fa1.jpg",Umutsuz Ev Kadınları - 45.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/afb0_737/index.m3u8
 #EXTINF:-1 group-title="Kanıt" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc1284687ed42a4b7f49.jpg",Kanıt - 100.Bölüm izle
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/3bef_3200/index.m3u8
 #EXTINF:-1 group-title="Kanıt" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dc1284687ed42a4b7f49.jpg",Kanıt - 99.Bölüm izle
@@ -2243,42 +2079,6 @@ https://kanaldvod.duhnet.tv/S1/HLS_VOD/0309_624/index.m3u8
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/5173_620/index.m3u8
 #EXTINF:-1 group-title="Kötü Yol" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834de2f84687ed42a4b7f57.jpg",Kötü Yol - 4.Bölüm
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/585a_622/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 8.Bölüm-FİNAL
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/4239_126/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 7.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/cd07_753/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 6.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/9c9f_570/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 5.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/050c_571/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 4.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/fd38_572/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 3.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/3a55_575/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 2.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/606a_576/index.m3u8
-#EXTINF:-1 group-title="Annem Uyurken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68348d6c84687ed42a4b7d34.jpg",Annem Uyurken - 1. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/6b01_582/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 20.Bölüm izle
-https://kanaldvod.duhnet.tv/S10/HLS_VOD/152332_ceec/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 19.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/0986_123/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 18.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/e353_197/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 17.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/dd9c_270/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 16.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/b474_486/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 15. Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/cc08_492/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 14.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/600f_266/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 13.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/ac58_481/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 12.Bölüm izle
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/c319_483/index.m3u8
-#EXTINF:-1 group-title="Sultan" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834eb7e84687ed42a4b7fb3.jpg",Sultan - 11.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/6e27_263/index.m3u8
 #EXTINF:-1 group-title="Keşanlı Ali Destanı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dd2e84687ed42a4b7f53.jpg",Keşanlı Ali Destanı - 20.Bölüm-FİNAL
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/0ac2_131/index.m3u8
 #EXTINF:-1 group-title="Keşanlı Ali Destanı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dd2e84687ed42a4b7f53.jpg",Keşanlı Ali Destanı - 19.Bölüm
@@ -2299,26 +2099,6 @@ https://kanaldvod.duhnet.tv/S1/HLS_VOD/fac0_500/index.m3u8
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/b4f8_489/index.m3u8
 #EXTINF:-1 group-title="Keşanlı Ali Destanı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834dd2e84687ed42a4b7f53.jpg",Keşanlı Ali Destanı - 11.Bölüm
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/7041_568/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 18.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7c1d_134/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 17.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/1ba9_146/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 16.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/0b74_175/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 15.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/4686_174/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 14.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/1180_173/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 13.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7dec_177/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 12.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7ce0_180/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 11. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/ffa6_730/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 10.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/cd1c_728/index.m3u8
-#EXTINF:-1 group-title="Bizim Yenge" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834d17784687ed42a4b7ed7.jpg",Bizim Yenge - 9. Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/9adf_726/index.m3u8
 #EXTINF:-1 group-title="Üsküdar'a Giderken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e28284687ed42a4b7f71.jpg",Üsküdar'a Giderken - 13.Bölüm (Final)
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/d211_1292/index.m3u8
 #EXTINF:-1 group-title="Üsküdar'a Giderken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834e28284687ed42a4b7f71.jpg",Üsküdar'a Giderken - 12.Bölüm
@@ -2485,26 +2265,6 @@ https://kanaldvod.duhnet.tv/S10/HLS_VOD/206784_0e0e/index.m3u8
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/206647_0cfc/index.m3u8
 #EXTINF:-1 group-title="Hıçkırık" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a4605506ce436370c2c064c.jpg",Hıçkırık - Hıçkırık 41. Bölüm
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/206507_0be4/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 18.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7aef_142/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 17.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/7528_139/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 16.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/89a7_951/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 15.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/c9ef_938/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 14.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/6725_931/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 12.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/68c9_925/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 11.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/4cd2_746/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 9.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/d4ea_741/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 10.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/e4b2_744/index.m3u8
-#EXTINF:-1 group-title="Küçük Sırlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834df4684687ed42a4b7f5e.jpg",Küçük Sırlar - 8.Bölüm
-https://kanaldvod.duhnet.tv/S1/HLS_VOD/3f94_738/index.m3u8
 #EXTINF:-1 group-title="Küçük Kadınlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834deb684687ed42a4b7f5b.jpg",Küçük Kadınlar - 78.Bölüm-FİNAL
 https://kanaldvod.duhnet.tv/S5/HLS_VOD/33496_c561/index.m3u8
 #EXTINF:-1 group-title="Küçük Kadınlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6834deb684687ed42a4b7f5b.jpg",Küçük Kadınlar - 77.Bölüm
@@ -2653,6 +2413,8 @@ https://kanaldvod.duhnet.tv/S12/HLS_VOD/325911_f953/index.m3u8
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/325405_f55d/index.m3u8
 #EXTINF:-1 group-title="Operasyon 41" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60ccf3f8933ccb2960691870.jpg",Operasyon 41 - Operasyon 41 - 5. Bölüm / 31 Temmuz 2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/324783_ec94/index.m3u8
+#EXTINF:-1 group-title="Operasyon 41" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60ccf3f8933ccb2960691870.jpg",Operasyon 41 - Operasyon 41 - 4. Bölüm / 24 Temmuz 2021
+https://kanaldvod.duhnet.tv/S12/HLS_VOD/324099_e73c/index.m3u8
 #EXTINF:-1 group-title="Operasyon 41" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60ccf3f8933ccb2960691870.jpg",Operasyon 41 - Operasyon 41 - 3. Bölüm / 17 Temmuz 2021
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/323596_e34c/index.m3u8
 #EXTINF:-1 group-title="Operasyon 41" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60ccf3f8933ccb2960691870.jpg",Operasyon 41 - Operasyon 41 - 2. Bölüm / 11 Temmuz 2021
@@ -3199,6 +2961,12 @@ https://kanaldvod.duhnet.tv/S10/HLS_VOD/207037_1008/index.m3u8
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/206867_0eb4/index.m3u8
 #EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 28.02.2018
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/206728_0d9e/index.m3u8
+#EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 27.02.2018
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/206624_0cce/index.m3u8
+#EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 26.02.2018
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/207965_1748/index.m3u8
+#EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 23.02.2018
+https://kanaldvod.duhnet.tv/S10/HLS_VOD/207960_173e/index.m3u8
 #EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 22.02.2018
 https://kanaldvod.duhnet.tv/S10/HLS_VOD/207968_174e/index.m3u8
 #EXTINF:-1 group-title="Sosyetik Ev Kadınları" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5a6740148685762d44a1886d.jpg",Sosyetik Ev Kadınları - Sosyetik Ev Kadınları / 21.02.2018
@@ -3617,6 +3385,10 @@ https://kanaldvod.duhnet.tv/S1/HLS_VOD/77567_3518/index.m3u8
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/77533_bd9a/index.m3u8
 #EXTINF:-1 group-title="Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356f2584687ed42a4b8072.jpg",Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak - Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak 26. Bölüm
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/77452_00b5/index.m3u8
+#EXTINF:-1 group-title="Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356f2584687ed42a4b8072.jpg",Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak - Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak 25. Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/77445_3f39/index.m3u8
+#EXTINF:-1 group-title="Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356f2584687ed42a4b8072.jpg",Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak - Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak 24. Bölüm
+https://kanaldvod.duhnet.tv/S1/HLS_VOD/77364_0f8e/index.m3u8
 #EXTINF:-1 group-title="Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356f2584687ed42a4b8072.jpg",Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak - Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak 23. Bölüm
 https://kanaldvod.duhnet.tv/S1/HLS_VOD/77251_eefd/index.m3u8
 #EXTINF:-1 group-title="Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68356f2584687ed42a4b8072.jpg",Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak - Bayraktar Hoca ile Kur'an-ı Kerim'i Anlamak 22. Bölüm
@@ -3787,6 +3559,8 @@ https://kanaldvod.duhnet.tv/S3/HLS_VOD/26065_66f5/index.m3u8
 https://kanaldvod.duhnet.tv/S3/HLS_VOD/24214_6c9b/index.m3u8
 #EXTINF:-1 group-title="Şans Kapıda" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/683577e27b716da194a9feec.jpg",Şans Kapıda - 03.12.2013 / Şans Kapıda
 https://kanaldvod.duhnet.tv/S3/HLS_VOD/21097_f9f1/index.m3u8
+#EXTINF:-1 group-title="Şans Kapıda" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/683577e27b716da194a9feec.jpg",Şans Kapıda - 26.11.2013 / Şans Kapıda
+https://kanaldvod.duhnet.tv/S4/HLS_VOD/20230_ee31/index.m3u8
 #EXTINF:-1 group-title="Şans Kapıda" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/683577e27b716da194a9feec.jpg",Şans Kapıda - 12.11.2013 / Şans Kapıda
 https://kanaldvod.duhnet.tv/S4/HLS_VOD/18591_e890/index.m3u8
 #EXTINF:-1 group-title="Şans Kapıda" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/683577e27b716da194a9feec.jpg",Şans Kapıda - 29.10.2013 / Şans Kapıda
@@ -3819,6 +3593,8 @@ https://kanaldvod.duhnet.tv/S8/HLS_VOD/55867_4e67/index.m3u8
 https://kanaldvod.duhnet.tv/S8/HLS_VOD/55697_f165/index.m3u8
 #EXTINF:-1 group-title="Özledim Seni" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5465ea38cf45af0ef49cc1fd.jpg",Özledim Seni - 19. Bölüm
 https://kanaldvod.duhnet.tv/S8/HLS_VOD/55589_34ab/index.m3u8
+#EXTINF:-1 group-title="Kapış Kapış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835b23084687ed42a4b822a.jpg",Kapış Kapış - 05.09.2013 / Kapış Kapış
+https://kanaldvod.duhnet.tv/S3/HLS_VOD/13399_b179/index.m3u8
 #EXTINF:-1 group-title="Kapış Kapış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835b23084687ed42a4b822a.jpg",Kapış Kapış - 29.08.2013 / Kapış Kapış
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/13107_2cbe/index.m3u8
 #EXTINF:-1 group-title="Kapış Kapış" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6835b23084687ed42a4b822a.jpg",Kapış Kapış - 23.08.2013 / Kapış Kapış
