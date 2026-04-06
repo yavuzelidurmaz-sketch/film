@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Çirkin" tvg-logo="https://media.startv.com.tr/star-tv/images/dikey(17).jpg",Çirkin - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69c7edd6c51e175df4aee164&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Çirkin" tvg-logo="https://media.startv.com.tr/star-tv/images/dikey(17).jpg",Çirkin - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ce6a38c51e175df4aee2df&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sevdiğim Sensin" tvg-logo="https://media.startv.com.tr/star-tv/images/sevd.jpg",Sevdiğim Sensin - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698d68bc3754260b3ea63df3&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sevdiğim Sensin" tvg-logo="https://media.startv.com.tr/star-tv/images/sevd.jpg",Sevdiğim Sensin - 2. Bölüm
@@ -11145,6 +11147,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69c68335c51e175df4aee12c&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 339. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69c68342c51e175df4aee130&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aslı Özkaya İle Bir Şansım Olsa" tvg-logo="https://media.startv.com.tr/star-tv/images/star.com21242_1730px.jpg",Aslı Özkaya İle Bir Şansım Olsa - 340. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69cfbea3c51e175df4aee3da&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Tatildeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/3f9516914b60b73d51cbf223.jpg",Vahe ile Tatildeki Mutluluk - 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93650&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe ile Tatildeki Mutluluk" tvg-logo="https://media.startv.com.tr/star-tv/images/3f9516914b60b73d51cbf223.jpg",Vahe ile Tatildeki Mutluluk - 3. Bölüm
@@ -13117,6 +13121,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69bd995d033a4bd9042cc02f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Tülin Şahin ile Moda" tvg-logo="https://media.startv.com.tr/star-tv/images/t252lin-sahin (2).jpg",Tülin Şahin ile Moda - 519. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69c6793dc51e175df4aee118&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Tülin Şahin ile Moda" tvg-logo="https://media.startv.com.tr/star-tv/images/t252lin-sahin (2).jpg",Tülin Şahin ile Moda - 520. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69cf9fa0c51e175df4aee36d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Özlem Mekik ile Lezzetli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/starweb1242_1730px(5).jpg",Özlem Mekik ile Lezzetli Tarifler - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_67656b287700a33209030157&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Özlem Mekik ile Lezzetli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/starweb1242_1730px(5).jpg",Özlem Mekik ile Lezzetli Tarifler - 2. Bölüm
@@ -13735,6 +13741,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6982e1b53754260b3ea639a8&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a7dd86604a1fbc5d83eaa3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69d0f83dca7813cfbb2bf915&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_75123&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 4. Bölüm
@@ -13915,6 +13923,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6984342d3754260b3ea63a33&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a91ad6604a1fbc5d83ead3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69d154beca7813cfbb2bf920&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_75158&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Star Haber" tvg-logo="https://media.startv.com.tr/star-tv/images/sta_1242x730.jpg",Star Haber - 5. Bölüm
