@@ -219,6 +219,8 @@ https://kanaldvod.duhnet.tv/hls/-/7X/omuz_omuza_249bolum/omuz_omuza_249bolum.smi
 https://kanaldvod.duhnet.tv/hls/w/XO/omuzomuza_248_bolum/omuzomuza_248_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 247. Bölüm - Alper Kul
 https://kanaldvod.duhnet.tv/hls/X/tp/omuz_omuza_247_bolum/omuz_omuza_247_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 28.05.2026
+https://kanaldvod.duhnet.tv/hls/u/R3/anahaber_280526/anahaber_280526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 27.05.2026
 https://kanaldvod.duhnet.tv/hls/B/3_/anahaber_270526/anahaber_270526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 26.05.2026
@@ -237,8 +239,6 @@ https://kanaldvod.duhnet.tv/hls/h/QL/anahaber19052026/anahaber19052026.smil/play
 https://kanaldvod.duhnet.tv/hls/7/vo/anahaber_180526/anahaber_180526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 15.05.2026
 https://kanaldvod.duhnet.tv/hls/j/7i/anahaber_150526/anahaber_150526.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 14.05.2026
-https://kanaldvod.duhnet.tv/hls/L/jw/anahaber_140526/anahaber_140526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 24.05.2026
 https://kanaldvod.duhnet.tv/hls/3/xI/haber2405blm/haber2405blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 23.05.2026
