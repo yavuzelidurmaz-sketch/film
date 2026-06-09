@@ -123,6 +123,8 @@ https://kanaldvod.duhnet.tv/hls/_/0n/bj_14bolum/bj_14bolum.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/g/rc/bj_13blm/bj_13blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Beyaz'la Joker" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69679f1d4514ff3cabc3f24a.jpg",Beyaz'la Joker - Beyaz'la Joker 12. Bölüm
 https://kanaldvod.duhnet.tv/hls/K/BH/bj_12_bolum/bj_12_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1861. Bölüm / 8 Haziran 2026
+https://kanaldvod.duhnet.tv/hls/c/46/gm_bolum1861/gm_bolum1861.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1860. Bölüm / 5 Haziran 2026
 https://kanaldvod.duhnet.tv/hls/y/gh/gm_1860/gm_1860.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1859. Bölüm / 4 Haziran 2026
@@ -141,10 +143,8 @@ https://kanaldvod.duhnet.tv/hls/0/7f/gm_1854blm/gm_1854blm.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/N/mx/gm_1853blm/gm_1853blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1852. Bölüm / 26 Mayıs 2026
 https://kanaldvod.duhnet.tv/hls/Q/zr/gm_1852blm/gm_1852blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1851. Bölüm / 25 Mayıs 2026
-https://kanaldvod.duhnet.tv/hls/1/Pe/gm_1851blm/gm_1851blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 08.06.2026
-https://kanaldvod.duhnet.tv/hls/P/pD/noh_1573/noh_1573.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/hls/i/UX/noh_1574/noh_1574.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 05.06.2026
 https://kanaldvod.duhnet.tv/hls/4/-T/noh_1572blm/noh_1572blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 04.06.2026
@@ -203,6 +203,8 @@ https://kanaldvod.duhnet.tv/hls/e/-l/omuz_omuza_251bolum/omuz_omuza_251bolum.smi
 https://kanaldvod.duhnet.tv/hls/Y/fT/omuz_omuza_250_blm/omuz_omuza_250_blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 249. Bölüm - Gülsim Ali
 https://kanaldvod.duhnet.tv/hls/-/7X/omuz_omuza_249bolum/omuz_omuza_249bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 08.06.2026
+https://kanaldvod.duhnet.tv/hls/y/5o/anahaber_080626/anahaber_080626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 05.06.2026
 https://kanaldvod.duhnet.tv/hls/y/G8/anahaber_05062026/anahaber_05062026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 04.06.2026
@@ -221,8 +223,6 @@ https://kanaldvod.duhnet.tv/hls/u/R3/anahaber_280526/anahaber_280526.smil/playli
 https://kanaldvod.duhnet.tv/hls/B/3_/anahaber_270526/anahaber_270526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 26.05.2026
 https://kanaldvod.duhnet.tv/hls/g/wP/anahaber_260526/anahaber_260526.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 25.05.2026
-https://kanaldvod.duhnet.tv/hls/L/ZN/anahaber_250526/anahaber_250526.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 07.06.2026
 https://kanaldvod.duhnet.tv/hls/K/v9/07062026anahaber/07062026anahaber.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cee856fe1eaeeea1ad4e43.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 06.06.2026
@@ -727,6 +727,8 @@ https://kanaldvod.duhnet.tv/S12/HLS_VODY/362333_36ad/index.m3u8
 https://kanaldvod.duhnet.tv/S12/HLS_VODY/332291_2b39/index.m3u8
 #EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 16. Bölüm
 https://kanaldvod.duhnet.tv/S12/HLS_VODY/331461_24bb/index.m3u8
+#EXTINF:-1 group-title="Baht Oyunu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/60bdcd174453950d88ed1f8e.jpg",Baht Oyunu - Baht Oyunu 15. Bölüm
+https://kanaldvod.duhnet.tv/S12/HLS_VODY/330667_1e87/index.m3u8
 #EXTINF:-1 group-title="Güneşi Beklerken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5eeb7755ebc8302cd4ece153.jpg",Güneşi Beklerken - 4. Bölüm
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/383491_336d/index.m3u8
 #EXTINF:-1 group-title="Ulan İstanbul" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/54f49cc6e50aa93944109d86.jpg",Ulan İstanbul - Ulan İstanbul 36. Bölüm
