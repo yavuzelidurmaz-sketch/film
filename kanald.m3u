@@ -145,6 +145,8 @@ https://kanaldvod.duhnet.tv/hls/Y/m3/kuralsiz_5_bolum_rev2/kuralsiz_5_bolum_rev2
 https://kanaldvod.duhnet.tv/hls/S/fq/kuralsizsokaklar_bol4/kuralsizsokaklar_bol4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kuralsız Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685414d9b85953a3a6d9df99.jpg",Kuralsız Sokaklar - Kuralsız Sokaklar 3. Bölüm
 https://kanaldvod.duhnet.tv/hls/W/dC/kuralsizsokaklar_3blm/kuralsizsokaklar_3blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1869. Bölüm / 18 Haziran 2026
+https://kanaldvod.duhnet.tv/hls/e/5k/gm_1869/gm_1869.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1868. Bölüm / 17 Haziran 2026
 https://kanaldvod.duhnet.tv/hls/T/qp/gm_1868/gm_1868.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1867. Bölüm / 16 Haziran 2026
@@ -163,8 +165,6 @@ https://kanaldvod.duhnet.tv/hls/o/S6/gm_1862/gm_1862.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/c/46/gm_bolum1861/gm_bolum1861.smil/playlist.m3u8
 #EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1860. Bölüm / 5 Haziran 2026
 https://kanaldvod.duhnet.tv/hls/y/gh/gm_1860/gm_1860.smil/playlist.m3u8
-#EXTINF:-1 group-title="Gelinim Mutfakta" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66b08a5af03f5c8f215f0f79.jpg",Gelinim Mutfakta - Gelinim Mutfakta 1859. Bölüm / 4 Haziran 2026
-https://kanaldvod.duhnet.tv/hls/F/0k/gm_1859blm/gm_1859blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 18.06.2026
 https://kanaldvod.duhnet.tv/hls/a/GA/noh_1581blm/noh_1581blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Neler Oluyor Hayatta?" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c18fc88b0ee3a869cbf026.jpg",Neler Oluyor Hayatta? - Neler Oluyor Hayatta? / 17.06.2026
@@ -225,6 +225,8 @@ https://kanaldvod.duhnet.tv/hls/6/Nc/omuz_omuza_252_bolum/omuz_omuza_252_bolum.s
 https://kanaldvod.duhnet.tv/hls/e/-l/omuz_omuza_251bolum/omuz_omuza_251bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 250. Bölüm - Turgut Tunçalp
 https://kanaldvod.duhnet.tv/hls/Y/fT/omuz_omuza_250_blm/omuz_omuza_250_blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 18.06.2026
+https://kanaldvod.duhnet.tv/hls/H/_H/anahaber_18062026/anahaber_18062026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 17.06.2026
 https://kanaldvod.duhnet.tv/hls/5/id/anahaber_17062026/anahaber_17062026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 16.06.2026
@@ -243,8 +245,6 @@ https://kanaldvod.duhnet.tv/hls/Y/Lx/anahaber_090626/anahaber_090626.smil/playli
 https://kanaldvod.duhnet.tv/hls/y/5o/anahaber_080626/anahaber_080626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 05.06.2026
 https://kanaldvod.duhnet.tv/hls/y/G8/anahaber_05062026/anahaber_05062026.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 04.06.2026
-https://kanaldvod.duhnet.tv/hls/n/x7/anahaber_040626/anahaber_040626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 14.06.2026
 https://kanaldvod.duhnet.tv/hls/p/8J/anahaber_140626/anahaber_140626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 13.06.2026
@@ -363,8 +363,6 @@ https://kanaldvod.duhnet.tv/hls/k/cE/tur17_blms/tur17_blms.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/k/k8/turnike_16blm/turnike_16blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Turnike" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914a11071aaa596823906.jpg",Turnike - Turnike 15. Bölüm / 22 Ekim 2024
 https://kanaldvod.duhnet.tv/hls/V/7E/turnike15blm_rev/turnike15blm_rev.smil/playlist.m3u8
-#EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 17. Bölüm - Cihangir Ceyhan
-https://kanaldvod.duhnet.tv/hls/V/E1/pass_17_bolm/pass_17_bolm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 16. Bölüm - Sibel Taşçıoğlu
 https://kanaldvod.duhnet.tv/hls/U/EN/password_16blm/password_16blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Password" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c914bb1071aaa596823908.jpg",Password - Password 15. Bölüm - Uğur Aslan
@@ -733,6 +731,186 @@ https://kanaldvod.duhnet.tv/S12/HLS_VODY/331461_24bb/index.m3u8
 https://kanaldvod.duhnet.tv/S12/HLS_VODY/330667_1e87/index.m3u8
 #EXTINF:-1 group-title="Güneşi Beklerken" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/5eeb7755ebc8302cd4ece153.jpg",Güneşi Beklerken - 4. Bölüm
 https://kanaldvod.duhnet.tv/S12/HLS_VOD/383491_336d/index.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 33. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Z/gi/li/Zgilivvghub2rAPFEXeO_g/Zgilivvghub2rAPFEXeO_g.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 32. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/n/GY/E_/nGYE_ejDpMfDjujRwhSZRA/nGYE_ejDpMfDjujRwhSZRA.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 31. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Z/Kq/nM/ZKqnMuoXEzgVzpKnWtkZ3w/ZKqnMuoXEzgVzpKnWtkZ3w.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 30. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/v/8K/J-/v8KJ-wfFAa4fnIH5d0gdCA/v8KJ-wfFAa4fnIH5d0gdCA.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 29. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/6/7j/pA/67jpAJLHU7dlN-vjqOD51Q/67jpAJLHU7dlN-vjqOD51Q.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 28. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/R/JE/_I/RJE_ICYZkSLqqOYB7w9OMw/RJE_ICYZkSLqqOYB7w9OMw.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 27. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/L/SS/dm/LSSdmdqERbQszwbNXQCrgw/LSSdmdqERbQszwbNXQCrgw.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 26. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/d/4q/IF/d4qIFoNNVTZq_u94I85iAw/d4qIFoNNVTZq_u94I85iAw.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 25. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/m/It/gd/mItgdigqEZINC8NUgO4f4Q/mItgdigqEZINC8NUgO4f4Q.smil/.m3u8
+#EXTINF:-1 group-title="Bizim Aile" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682491c884687ed42a4b6bd3.jpg",Bizim Aile - Bizim Aile 24. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/f/0b/74/f0b74KACF5hGZwFzwhF_Jw/f0b74KACF5hGZwFzwhF_Jw.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 8. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/2/yt/EM/2ytEMAkzAWNHIjiGq7KbFg/2ytEMAkzAWNHIjiGq7KbFg.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 7. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/u/Xv/jm/uXvjmqqLD91RWrOlwzvNjw/uXvjmqqLD91RWrOlwzvNjw.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 6. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/R/rI/sd/RrIsdEcX0gYrPp8CpNCKkQ/RrIsdEcX0gYrPp8CpNCKkQ.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 5. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/_/cX/Ce/_cXCeRY7FXV9znwXHdr35A/_cXCeRY7FXV9znwXHdr35A.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 4. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/D/cb/iR/DcbiR59XVxyfLzpeCXd8FA/DcbiR59XVxyfLzpeCXd8FA.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 3. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/H/oZ/Em/HoZEmMrRPysF_EyNNUd2qg/HoZEmMrRPysF_EyNNUd2qg.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası 2. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Q/qF/Hm/QqFHm9nzt2m0Bs_qlQ1cYA/QqFHm9nzt2m0Bs_qlQ1cYA.smil/.m3u8
+#EXTINF:-1 group-title="Boş Gezen ve Kalfası" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6824ac59db0c47dc3f6159e8.jpg",Boş Gezen ve Kalfası - Boş Gezen ve Kalfası İlk Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/A/pQ/xX/ApQxXV4q11snE0Tc32Xppw/ApQxXV4q11snE0Tc32Xppw.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 9. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/1/8G/9o/18G9o4hm4cj2QHtKRLgV5Q/18G9o4hm4cj2QHtKRLgV5Q.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 8. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/j/cV/6z/jcV6zGBFzX5rrhHxsKP8_g/jcV6zGBFzX5rrhHxsKP8_g.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 7. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/8/Cx/2n/8Cx2nLfLN2gArBbQS8IWXQ/8Cx2nLfLN2gArBbQS8IWXQ.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 6. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/L/se/bV/LsebVa_CoqLkODF2kMl4GQ/LsebVa_CoqLkODF2kMl4GQ.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 5. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/2/4d/Q9/24dQ9JXXSCdhq5lySORdqw/24dQ9JXXSCdhq5lySORdqw.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 4. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/U/E2/do/UE2do9357zJgon711KbkIg/UE2do9357zJgon711KbkIg.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 3. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/a/oD/-N/aoD-NDJuP2UNSncp9L0UHw/aoD-NDJuP2UNSncp9L0UHw.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş 2. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/2/aG/-s/2aG-sVckLwfeZcC-L_pPjg/2aG-sVckLwfeZcC-L_pPjg.smil/.m3u8
+#EXTINF:-1 group-title="Büyümüş de Küçülmüş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67f7b1ed7c2f3b2e95cfd9c8.jpg",Büyümüş de Küçülmüş - Büyümüş de Küçülmüş İlk Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/H/54/bn/H54bnRmX_aEIKpDFvNDvgw/H54bnRmX_aEIKpDFvNDvgw.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 17. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/k/oH/ir/koHira3XoldSVQMDvRHcDw/koHira3XoldSVQMDvRHcDw.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 16. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/z/MQ/_T/zMQ_TVShCrpC3GV1CqPQkg/zMQ_TVShCrpC3GV1CqPQkg.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 15. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/b/h_/1r/bh_1rKEjwa3gQLKCwfBHfQ/bh_1rKEjwa3gQLKCwfBHfQ.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 14. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/-/jw/Wx/-jwWxTWibP2WU_AQF1-0oA/-jwWxTWibP2WU_AQF1-0oA.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 13. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/W/oC/QE/WoCQE16X50wW4o7MpB1jLg/WoCQE16X50wW4o7MpB1jLg.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 12. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/K/5r/dL/K5rdLTMy1jdNCG77SoDLpw/K5rdLTMy1jdNCG77SoDLpw.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 11. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Z/64/Kh/Z64Kh0twajSGlnAUZptnPQ/Z64Kh0twajSGlnAUZptnPQ.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 10. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/P/SG/CW/PSGCWBdOegH_Kk5d-4H-sw/PSGCWBdOegH_Kk5d-4H-sw.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 9. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/P/Oj/f8/POjf8kKZPyzO67dK1CzEzw/POjf8kKZPyzO67dK1CzEzw.smil/.m3u8
+#EXTINF:-1 group-title="Çarli İş Başında" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6821c9dcdb0c47dc3f614bf9.jpg",Çarli İş Başında - Çarli İş Başında 8. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/_/vv/bz/_vvbz8S9VZUKoXdwrYxgJg/_vvbz8S9VZUKoXdwrYxgJg.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 8.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/T/oz/pT/TozpTKl18_lwG_zuGxqMXw/TozpTKl18_lwG_zuGxqMXw.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 7.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/7/Z8/9Q/7Z89Q7CNR9HKUl8V98LgHA/7Z89Q7CNR9HKUl8V98LgHA.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 6.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/x/FW/jJ/xFWjJunon_B3uh8ODSytZg/xFWjJunon_B3uh8ODSytZg.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 5.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/m/fi/_E/mfi_EdglhaqNLstox98jAQ/mfi_EdglhaqNLstox98jAQ.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 4.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/2/9P/aO/29PaO1vFLP8G4fJyToo-PA/29PaO1vFLP8G4fJyToo-PA.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 3. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/O/TU/a2/OTUa2ZDBVIBYrVoC4LGmRw/OTUa2ZDBVIBYrVoC4LGmRw.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 2.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Y/dR/y_/YdRy_z02LfFcXizuHZFrSA/YdRy_z02LfFcXizuHZFrSA.smil/.m3u8
+#EXTINF:-1 group-title="Cesaretin Var Mı Aşka" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/67ee91a57c2f3b2e95cfc7bb.jpg",Cesaretin Var Mı Aşka - 1.bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/m/Cu/r4/mCur4XAnvAMlSvWPh832Qw/mCur4XAnvAMlSvWPh832Qw.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 39. Bölüm - FİNAL
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/g/U8/Rn/gU8RnYe7cINyIPGwsAQXgA/gU8RnYe7cINyIPGwsAQXgA.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 38. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/Y/LB/oS/YLBoSaniRC-jZYvBGC5NKg/YLBoSaniRC-jZYvBGC5NKg.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 37. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/g/38/4w/g384wQquSBC_1xQf-MpcQQ/g384wQquSBC_1xQf-MpcQQ.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 36. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/p/h_/Af/ph_AfD8BJ3ISd6xEkvUkMg/ph_AfD8BJ3ISd6xEkvUkMg.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 35. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/T/QZ/Jt/TQZJtvkVnr0QQ3mWsgKYxw/TQZJtvkVnr0QQ3mWsgKYxw.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 34. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/c/Vx/bW/cVxbWCnKwX_DjvQrs2hb0Q/cVxbWCnKwX_DjvQrs2hb0Q.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 33. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/-/Uj/hx/-UjhxOGJcBR0NSTRsnJ81Q/-UjhxOGJcBR0NSTRsnJ81Q.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 32. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/h/xw/GF/hxwGFKPK25E02hytRLlZiA/hxwGFKPK25E02hytRLlZiA.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 31. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/c/BK/4d/cBK4dz2TpB4EBS4utOI0iQ/cBK4dz2TpB4EBS4utOI0iQ.smil/.m3u8
+#EXTINF:-1 group-title="Çifte Bela" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68765db8ff79654e7d12bdc7.jpg",Çifte Bela - 30. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/H/m8/hU/Hm8hU8ppXkQ8wOfqUo6YJA/Hm8hU8ppXkQ8wOfqUo6YJA.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 65. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/l/ZG/j_/lZGj_SQjrN8_ILhqcxxCRw/lZGj_SQjrN8_ILhqcxxCRw.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 64. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/F/l3/6n/Fl36n6UCT8oaeeAZ7TGw8g/Fl36n6UCT8oaeeAZ7TGw8g.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 63. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/8/oS/aK/8oSaKjTIxftjZifMWXyF8A/8oSaKjTIxftjZifMWXyF8A.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 62. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/-/yV/Wt/-yVWtO4xGn99LTpeFOkPxA/-yVWtO4xGn99LTpeFOkPxA.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 61. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/a/Db/_E/aDb_EJKQFMRrPDr6KxwBng/aDb_EJKQFMRrPDr6KxwBng.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 60. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/U/eO/wN/UeOwNYe9B1nK9Sn45rp6dA/UeOwNYe9B1nK9Sn45rp6dA.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 59. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/C/Wu/tl/CWutl6fiellPqoIAFSrsMw/CWutl6fiellPqoIAFSrsMw.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 58. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/_/_H/N-/__HN-VyW9gem0JFtp4wX-w/__HN-VyW9gem0JFtp4wX-w.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 57. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/s/YA/Yl/sYAYlOXyQeQOSkm3Y_5t_Q/sYAYlOXyQeQOSkm3Y_5t_Q.smil/.m3u8
+#EXTINF:-1 group-title="Çılgın Bediş" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6825d02084687ed42a4b6f8e.jpg",Çılgın Bediş - 56. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/B/Zf/_H/BZf_HeMQCfFGZjGysEfhxA/BZf_HeMQCfFGZjGysEfhxA.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 9. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/x/-Y/H_/x-YH_VAGq5CWG2g6TNKkwQ/x-YH_VAGq5CWG2g6TNKkwQ.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 8. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/1/Gh/XQ/1GhXQKphZFUhCmkYBNuGwQ/1GhXQKphZFUhCmkYBNuGwQ.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 7. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/u/xA/df/uxAdfuyr5QVD4Zv_2C07RQ/uxAdfuyr5QVD4Zv_2C07RQ.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 6. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/W/HC/Gu/WHCGuu1j7ksExB3ROb9foA/WHCGuu1j7ksExB3ROb9foA.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 5. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/F/jd/NS/FjdNSwG6bW92wrYJoejvYQ/FjdNSwG6bW92wrYJoejvYQ.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 4. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/R/_x/zK/R_xzKGsoqJN-ejW7u9wn8g/R_xzKGsoqJN-ejW7u9wn8g.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 3. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/o/dE/wK/odEwKXVBXCerUSdOaT2niw/odEwKXVBXCerUSdOaT2niw.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı 2. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/k/q8/RR/kq8RRYDX3FILePR-hugtTw/kq8RRYDX3FILePR-hugtTw.smil/.m3u8
+#EXTINF:-1 group-title="Dayı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682498bf8e64107031532c09.jpg",Dayı - Dayı İlk Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/O/_M/YJ/O_MYJ6PPzkeY0whgF_XbxQ/O_MYJ6PPzkeY0whgF_XbxQ.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 13. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/P/eE/Xg/PeEXgYUd_PiI4gYoUOqz1g/PeEXgYUd_PiI4gYoUOqz1g.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 12. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/q/Tp/Dk/qTpDkRUcKTdq74GlheOBbQ/qTpDkRUcKTdq74GlheOBbQ.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 11. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/A/oT/7t/AoT7tXTqlMk-L4xyffCuMg/AoT7tXTqlMk-L4xyffCuMg.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 10. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/H/I8/rv/HI8rvFx0-1i1HHRLx3tXNg/HI8rvFx0-1i1HHRLx3tXNg.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 9. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/_/0E/6n/_0E6nRy59_YK2FptWq_b3A/_0E6nRy59_YK2FptWq_b3A.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 8. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/z/X3/lB/zX3lBKddaiXcOfotTkNfxQ/zX3lBKddaiXcOfotTkNfxQ.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 7. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/c/lJ/jm/clJjmVfW1nwlZY5le9cIig/clJjmVfW1nwlZY5le9cIig.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 6. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/m/2b/b2/m2bb2d6CohWGcLtSTC8UfA/m2bb2d6CohWGcLtSTC8UfA.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 5. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/r/xn/xF/rxnxFJn5s85l9IhYe2q96A/rxnxFJn5s85l9IhYe2q96A.smil/.m3u8
+#EXTINF:-1 group-title="Delikanlı" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/682f4b25db0c47dc3f61676c.jpg",Delikanlı - Delikanlı 4. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/E/Ns/LG/ENsLGBO5Yn3xCbJa0zPJqQ/ENsLGBO5Yn3xCbJa0zPJqQ.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman 6. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/E/bg/Bp/EbgBp0XHrPs9C5730C7CSw/EbgBp0XHrPs9C5730C7CSw.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman 5. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/i/8H/_p/i8H_pWw-vaey5msurIoaCw/i8H_pWw-vaey5msurIoaCw.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman 4. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/p/GG/ts/pGGts2h3FUafVKjgPP57ng/pGGts2h3FUafVKjgPP57ng.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman 3. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/s/WJ/mO/sWJmO0EaAxWwN-FT-MlT1Q/sWJmO0EaAxWwN-FT-MlT1Q.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman 2. Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/E/hm/Rg/EhmRg1WoiYrOA4gobrganA/EhmRg1WoiYrOA4gobrganA.smil/.m3u8
+#EXTINF:-1 group-title="Derman" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/685052868951d67b2da3f58f.jpg",Derman - Derman İlk Bölüm
+https://kanaldvodnew.duhnet.tv/vms/e228sc3e0o/e/bx/YD/ebxYDccbVExyBAvae9eB9w/ebxYDccbVExyBAvae9eB9w.smil/.m3u8
 #EXTINF:-1 group-title="Ulan İstanbul" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/54f49cc6e50aa93944109d86.jpg",Ulan İstanbul - Ulan İstanbul 36. Bölüm
 http://media.netd.com.tr/S2/HLS_VOD/67956_ed29/index.m3u8
 #EXTINF:-1 group-title="Ulan İstanbul" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/54f49cc6e50aa93944109d86.jpg",Ulan İstanbul - Ulan İstanbul 35. Bölüm - Aile Versiyonu
