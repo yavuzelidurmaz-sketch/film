@@ -245,6 +245,8 @@ https://kanaldvod.duhnet.tv/hls/b/yr/anahaber_100626/anahaber_100626.smil/playli
 https://kanaldvod.duhnet.tv/hls/Y/Lx/anahaber_090626/anahaber_090626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68cbee71b44f78b90feab939.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 08.06.2026
 https://kanaldvod.duhnet.tv/hls/y/5o/anahaber_080626/anahaber_080626.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 20.06.2026
+https://kanaldvod.duhnet.tv/hls/J/iw/haber2006blm/haber2006blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 14.06.2026
 https://kanaldvod.duhnet.tv/hls/p/8J/anahaber_140626/anahaber_140626.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 13.06.2026
@@ -263,8 +265,8 @@ https://kanaldvod.duhnet.tv/hls/3/xI/haber2405blm/haber2405blm.smil/playlist.m3u
 https://kanaldvod.duhnet.tv/hls/n/Zx/haber2305blm/haber2305blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 17.05.2026
 https://kanaldvod.duhnet.tv/hls/W/_Q/anahaber_170526/anahaber_170526.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a2ef1ca11471b9efed15302.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 16.05.2026
-https://kanaldvod.duhnet.tv/hls/J/Hs/anahaber_160526/anahaber_160526.smil/playlist.m3u8
+#EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 20.06.2026 / Magazin D Cumartesi
+https://kanaldvod.duhnet.tv/hls/z/mQ/mg_440blm/mg_440blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 13.06.2026 / Magazin D Cumartesi
 https://kanaldvod.duhnet.tv/hls/z/Wc/magdc_439blm/magdc_439blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 06.06.2026 / Magazin D Cumartesi
@@ -283,8 +285,6 @@ https://kanaldvod.duhnet.tv/hls/D/NQ/mg_433blm/mg_433blm.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/6/2v/magazindc_432/magazindc_432.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 18.04.2026 / Magazin D Cumartesi
 https://kanaldvod.duhnet.tv/hls/Y/il/magdc_431blm/magdc_431blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 11.04.2026 / Magazin D Cumartesi
-https://kanaldvod.duhnet.tv/hls/t/qC/magdcmt_430/magdcmt_430.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Pazar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6872297eff79654e7d12b629.jpg",Magazin D Pazar - 31.05.2026 / Magazin D Pazar
 https://kanaldvod.duhnet.tv/hls/q/6_/magazindp_420/magazindp_420.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Pazar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6872297eff79654e7d12b629.jpg",Magazin D Pazar - 24.05.2026 / Magazin D Pazar
@@ -304,7 +304,7 @@ https://kanaldvod.duhnet.tv/hls/S/XS/magdpzr_bol413/magdpzr_bol413.smil/playlist
 #EXTINF:-1 group-title="Magazin D Pazar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6872297eff79654e7d12b629.jpg",Magazin D Pazar - 29.03.2026 / Magazin D Pazar
 https://kanaldvod.duhnet.tv/hls/i/Q5/magazindp_411/magazindp_411.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 504. Bölüm / 20.06.2026
-https://kanaldvod.duhnet.tv/hls/O/iM/kon_504blm/kon_504blm.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/hls/a/cM/kon_505blm/kon_505blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 503. Bölüm / 14.06.2026
 https://kanaldvod.duhnet.tv/hls/a/mx/kon_503blm/kon_503blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 502. Bölüm / 13.06.2026
@@ -324,7 +324,7 @@ https://kanaldvod.duhnet.tv/hls/N/e0/kon_496blm/kon_496blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Konuştukça" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6930449f4c5d448b7df6a57f.jpg",Konuştukça - Konuştukça 495. Bölüm / 17.05.2026
 https://kanaldvod.duhnet.tv/hls/5/bz/kon_495blm/kon_495blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pazar Gezmesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6943c72f4c5d448b7df6ba12.jpg",Pazar Gezmesi - Pazar Gezmesi 27. Bölüm - Hakan Peker
-https://kanaldvod.duhnet.tv/hls/G/KY/pg_27blm/pg_27blm.smil/playlist.m3u8
+https://kanaldvod.duhnet.tv/hls/B/Jj/pazgez_28blm/pazgez_28blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pazar Gezmesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6943c72f4c5d448b7df6ba12.jpg",Pazar Gezmesi - Pazar Gezmesi 26. Bölüm - Elif Karlı
 https://kanaldvod.duhnet.tv/hls/k/uK/pzrgezmesi26/pzrgezmesi26.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pazar Gezmesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6943c72f4c5d448b7df6ba12.jpg",Pazar Gezmesi - Pazar Gezmesi 25. Bölüm - Murat Kurşun
