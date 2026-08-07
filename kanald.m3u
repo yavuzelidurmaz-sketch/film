@@ -39,26 +39,6 @@ https://kanaldvod.duhnet.tv/hls/y/Gn/us_56bolum/us_56bolum.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/6/J_/us_55bolum/us_55bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uzak Şehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68b94064846cac640f87db45.jpg",Uzak Şehir - Uzak Şehir 54. Bölüm
 https://kanaldvod.duhnet.tv/hls/F/DK/us_54blm/us_54blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 47. Bölüm - FİNAL
-https://kanaldvod.duhnet.tv/hls/P/o6/er_47blm_final/er_47blm_final.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 46. Bölüm
-https://kanaldvod.duhnet.tv/hls/m/61/er_46bolum/er_46bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 45. Bölüm
-https://kanaldvod.duhnet.tv/hls/P/S6/er_45_bolum/er_45_bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 44. Bölüm
-https://kanaldvod.duhnet.tv/hls/C/ba/er44_bolum/er44_bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 43. Bölüm
-https://kanaldvod.duhnet.tv/hls/w/mp/er_43_bolum/er_43_bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 42. Bölüm
-https://kanaldvod.duhnet.tv/hls/d/hM/er_42bolum/er_42bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 41. Bölüm
-https://kanaldvod.duhnet.tv/hls/x/DU/er_41blm/er_41blm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 40. Bölüm
-https://kanaldvod.duhnet.tv/hls/3/c0/er_40bolum/er_40bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 39. Bölüm
-https://kanaldvod.duhnet.tv/hls/Q/-e/er_39_bolum/er_39_bolum.smil/playlist.m3u8
-#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/691439de9974e8ffe8aafce2.jpg",Eşref Rüya - Eşref Rüya 38. Bölüm
-https://kanaldvod.duhnet.tv/hls/a/9M/er_38bolum_rev/er_38bolum_rev.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 751. Bölüm - SEZON FİNALİ
 https://kanaldvod.duhnet.tv/hls/7/TV/as_751_bolum/as_751_bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arka Sokaklar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c19349410eac5508f55040.jpg",Arka Sokaklar - Arka Sokaklar 750. Bölüm
@@ -99,6 +79,26 @@ https://kanaldvod.duhnet.tv/hls/K/hd/gvg_25blm/gvg_25blm.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/7/oH/gvg24/gvg24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Güller ve Günahlar" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c85dfff35cf5ba33dfcd69.jpg",Güller ve Günahlar - Güller ve Günahlar 23. Bölüm
 https://kanaldvod.duhnet.tv/hls/x/Fw/gg_23blm/gg_23blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 47. Bölüm - FİNAL
+https://kanaldvod.duhnet.tv/hls/P/o6/er_47blm_final/er_47blm_final.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 46. Bölüm
+https://kanaldvod.duhnet.tv/hls/m/61/er_46bolum/er_46bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 45. Bölüm
+https://kanaldvod.duhnet.tv/hls/P/S6/er_45_bolum/er_45_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 44. Bölüm
+https://kanaldvod.duhnet.tv/hls/C/ba/er44_bolum/er44_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 43. Bölüm
+https://kanaldvod.duhnet.tv/hls/w/mp/er_43_bolum/er_43_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 42. Bölüm
+https://kanaldvod.duhnet.tv/hls/d/hM/er_42bolum/er_42bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 41. Bölüm
+https://kanaldvod.duhnet.tv/hls/x/DU/er_41blm/er_41blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 40. Bölüm
+https://kanaldvod.duhnet.tv/hls/3/c0/er_40bolum/er_40bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 39. Bölüm
+https://kanaldvod.duhnet.tv/hls/Q/-e/er_39_bolum/er_39_bolum.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a758a0f800655e3162c7c2a.jpg",Eşref Rüya - Eşref Rüya 38. Bölüm
+https://kanaldvod.duhnet.tv/hls/a/9M/er_38bolum_rev/er_38bolum_rev.smil/playlist.m3u8
 #EXTINF:-1 group-title="İnci Taneleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69f8f1072e1ebe9b5e9b8fb8.jpg",İnci Taneleri - İnci Taneleri 51. Bölüm - FİNAL
 https://kanaldvod.duhnet.tv/hls/E/Ah/it_51blm_final/it_51blm_final.smil/playlist.m3u8
 #EXTINF:-1 group-title="İnci Taneleri" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/69f8f1072e1ebe9b5e9b8fb8.jpg",İnci Taneleri - İnci Taneleri 50. Bölüm
@@ -239,6 +239,8 @@ https://kanaldvod.duhnet.tv/hls/6/Nc/omuz_omuza_252_bolum/omuz_omuza_252_bolum.s
 https://kanaldvod.duhnet.tv/hls/e/-l/omuz_omuza_251bolum/omuz_omuza_251bolum.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arda ile Omuz Omuza" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/61535c5f4453951504a95c4b.jpg",Arda ile Omuz Omuza - Arda ile Omuz Omuza 250. Bölüm - Turgut Tunçalp
 https://kanaldvod.duhnet.tv/hls/Y/fT/omuz_omuza_250_blm/omuz_omuza_250_blm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a439d449b15a3cbd4002aba.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 06.08.2026
+https://kanaldvod.duhnet.tv/hls/j/2g/anahaber_060826/anahaber_060826.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a439d449b15a3cbd4002aba.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 05.08.2026
 https://kanaldvod.duhnet.tv/hls/T/Qi/anahaber_050826/anahaber_050826.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a439d449b15a3cbd4002aba.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 04.08.2026
@@ -257,8 +259,6 @@ https://kanaldvod.duhnet.tv/hls/o/u4/anahaber_28072026/anahaber_28072026.smil/pl
 https://kanaldvod.duhnet.tv/hls/O/7p/anahaber_270726/anahaber_270726.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a439d449b15a3cbd4002aba.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 24.07.2026
 https://kanaldvod.duhnet.tv/hls/a/lI/anahaber_240726/anahaber_240726.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kanal D Ana Haber" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a439d449b15a3cbd4002aba.jpg",Kanal D Ana Haber - Kanal D Ana Haber - 23.07.2026
-https://kanaldvod.duhnet.tv/hls/P/4z/anahaber_230726/anahaber_230726.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a43c7b29b15a3cbd4002bd0.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 02.08.2026
 https://kanaldvod.duhnet.tv/hls/w/yY/anahaber02082026/anahaber02082026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a43c7b29b15a3cbd4002bd0.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 01.08.2026
@@ -279,10 +279,10 @@ https://kanaldvod.duhnet.tv/hls/Z/EQ/anahaber_110726/anahaber_110726.smil/playli
 https://kanaldvod.duhnet.tv/hls/D/v5/05072026anahaber/05072026anahaber.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kanal D Haber Hafta Sonu" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/6a43c7b29b15a3cbd4002bd0.jpg",Kanal D Haber Hafta Sonu - Kanal D Haber Hafta Sonu - 04.07.2026
 https://kanaldvod.duhnet.tv/hls/d/2e/04072026anahber/04072026anahber.smil/playlist.m3u8
+#EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 339. Bölüm
+https://kanaldvod.duhnet.tv/hls/H/yd/magd29_2026/magd29_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 338. Bölüm
 https://kanaldvod.duhnet.tv/hls/3/Zd/magdyaz28_2026/magdyaz28_2026.smil/playlist.m3u8
-#EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 337. Bölüm
-https://kanaldvod.duhnet.tv/hls/F/q4/magdyaz27_2026/magdyaz27_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 336. Bölüm
 https://kanaldvod.duhnet.tv/hls/p/cm/magdyaz26_2026/magdyaz26_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 335. Bölüm
@@ -297,8 +297,6 @@ https://kanaldvod.duhnet.tv/hls/d/cN/magdyazbol22_2026/magdyazbol22_2026.smil/pl
 https://kanaldvod.duhnet.tv/hls/v/8Z/magdyaz_bol21_2026/magdyaz_bol21_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 330. Bölüm
 https://kanaldvod.duhnet.tv/hls/x/k1/magdyazbol20_2026/magdyazbol20_2026.smil/playlist.m3u8
-#EXTINF:-1 group-title="Magazin D Yaz" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/668269d80e55a65e086897c1.jpg",Magazin D Yaz - Magazin D Yaz 329. Bölüm
-https://kanaldvod.duhnet.tv/hls/5/q7/magdyazbol19_2026/magdyazbol19_2026.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 01.08.2026 / Magazin D Cumartesi
 https://kanaldvod.duhnet.tv/hls/K/Sm/magdcmt446/magdcmt446.smil/playlist.m3u8
 #EXTINF:-1 group-title="Magazin D Cumartesi" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68722884ff79654e7d12b5b1.jpg",Magazin D Cumartesi - 25.07.2026 / Magazin D Cumartesi
@@ -483,6 +481,8 @@ https://kanaldvod.duhnet.tv/hls/S/IN/gad_2_blm/gad_2_blm.smil/playlist.m3u8
 https://kanaldvod.duhnet.tv/hls/p/Lk/gad1blmyd/gad1blmyd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Taş Kağıt Makas" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66e1c5849171043b026067b5.jpg",Taş Kağıt Makas - Taş Kağıt Makas 19. Bölüm - FİNAL
 https://kanaldvod.duhnet.tv/hls/H/rB/tkm19_blmss/tkm19_blmss.smil/playlist.m3u8
+#EXTINF:-1 group-title="Taş Kağıt Makas" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66e1c5849171043b026067b5.jpg",Taş Kağıt Makas - Taş Kağıt Makas 18. Bölüm
+https://kanaldvod.duhnet.tv/hls/Z/au/tkm_18_blm/tkm_18_blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Taş Kağıt Makas" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66e1c5849171043b026067b5.jpg",Taş Kağıt Makas - Taş Kağıt Makas 17. Bölüm
 https://kanaldvod.duhnet.tv/hls/J/e_/tkm_17_blm/tkm_17_blm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Taş Kağıt Makas" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/66e1c5849171043b026067b5.jpg",Taş Kağıt Makas - Taş Kağıt Makas 16. Bölüm
